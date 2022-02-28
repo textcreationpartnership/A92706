@@ -1,0 +1,982 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The glorious kingdom of our blessed Lord Jesus Christ on earth, rightly timed: proving it not to be till His second coming In answer to two treatises; the one, intituled, Theopolis; or, The city of God. By a nameless author. The other, A treatise of the new-heavens and new-earth. By T.M. By W.S. a servant of Christ.</title>
+            <author>W. S.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 115 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92706</idno>
+            <idno type="STC">Wing S194A</idno>
+            <idno type="STC">ESTC R230180</idno>
+            <idno type="EEBO-CITATION">99899454</idno>
+            <idno type="PROQUEST">99899454</idno>
+            <idno type="VID">153532</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92706)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153532)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2369:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The glorious kingdom of our blessed Lord Jesus Christ on earth, rightly timed: proving it not to be till His second coming In answer to two treatises; the one, intituled, Theopolis; or, The city of God. By a nameless author. The other, A treatise of the new-heavens and new-earth. By T.M. By W.S. a servant of Christ.</title>
+                  <author>W. S.</author>
+               </titleStmt>
+               <extent>[xii], 35, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year 1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: "The city of God" and "A treatise of the new-heavens and new-earth".</note>
+                  <note>With an errata slip pasted at the foot of p. 35.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Augustine, --  Saint, Bishop of Hippo, --  De civitate Dei, --  English, --  Early works to 1800.</term>
+               <term>Jesus Christ --  Messiahship --  Early works to 1800.</term>
+               <term>Treatise of the new-heavens and new-earth.</term>
+               <term>Second Advent --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Jayanthi Reddy</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Jayanthi Reddy</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153532:1"/>
+            <p>THE <hi>Glorious Kingdom</hi> Of our Bleſſed Lord JESUS CHRIST on Earth, RIGHTLY TIMED: Proving it not to be till His SECOND COMING.</p>
+            <p>IN Anſwer to two Treatiſes; The one, Intituled, <hi>Theopo<g ref="char:EOLhyphen"/>lis;</hi> or, <hi>The City of God.</hi> By a nameleſs Author.</p>
+            <p>The other, <hi>A Treatiſe of the New-Heavens and New-Earth.</hi> By <hi>T. M.</hi>
+            </p>
+            <p>By <hi>W. S.</hi> a Servant of Chriſt.</p>
+            <q>
+               <bibl>
+                  <hi>Job 38.2.</hi>
+               </bibl>
+               <p>Who is this that darkneth Counſel by words without Knowledg?</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Rev. 5.10.</hi>
+               </bibl>
+               <p>And hath made us unto our God Kings and Prieſts; and we ſhall reign on the Earth.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Rev. 3.21.</hi>
+               </bibl>
+               <p>To him that overcometh, will I grant to ſit with me in my Throne, even as I overcame, and am ſet down with my Father on his Throne.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Iſa. 57.14.</hi>
+               </bibl>
+               <p>Take up the ſtumbling Block out of the way of my People.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1693.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:153532:2"/>
+            <pb n="iii" facs="tcp:153532:2"/>
+            <head>The EPISTLE DEDICATORY.</head>
+            <head type="sub">To the Churches of Chriſt in this Nation, <hi>Salutation.</hi>
+            </head>
+            <opener>
+               <salute>Brethren;</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Cannot but lament the Diſadvantages you lie under, which not a little obſtruct your Generation-work: for certainly you are ſet to be the <hi>Light of the World;</hi>
+               <note place="margin">Matth. 5.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> but how little you have been ſo, is too palpable. 'Tis alſo as certain, that our Lord hath given a Miniſtry to his Church,<note place="margin">Eph. 4.11, 12.</note> 
+               <hi>for the perfect<g ref="char:EOLhyphen"/>ing of the Saints, —for the edifying of the Body of Chriſt:</hi> Yea, <hi>every Scribe inſtructed into the Kingdom of Heaven, is,</hi>
+               <note place="margin">Matth. 13.52.</note> or ſhould be, <hi>like a good Houſholder, which bringeth out of his Treaſury things new and old.</hi> True it is, we have had new things brought forth often, in this day, both in Sermons and Books; but how unſound, unwholeſom, and unhealthful ſome of thoſe have been, we ſadly experience. This Nation is wonderfully deluded with thoſe ſtrange Pamphlets of the Qua<g ref="char:EOLhyphen"/>kers, that ſeldom have any thing of Truth in them, but a bundle of Deluſions, whereby many Souls are miſled. Lamenting there<g ref="char:EOLhyphen"/>fore the State of this Nation upon that account, what care ought to be had by others how they preach and write? But now where lies the fault, or on whom ſhall I lay the blame? The Miniſters I cannot excuſe; for I fear they have too much neglected that Charge given to <hi>Timothy,</hi> and in him to all others in the like Capacity; i. e. <hi>To give Attendance to Reading, to Exhor<g ref="char:EOLhyphen"/>tation,</hi>
+               <note place="margin">1 Tim. 4.13, 14, 15, 16.</note> 
+               <hi>to Doctrine, and not to neglect the Gift given to them; and to exerciſe their Meditations upon the Oracles of God and Myſteries of Chriſt, even the hidden Myſtery:</hi> and <hi>to give themſelves WHOLLY to them, that their Pro<g ref="char:EOLhyphen"/>fiting may appear to all;</hi> and <hi>to take heed unto themſelves,
+<pb n="iv" facs="tcp:153532:3"/>and unto their Doctrine; continuing in them, that in ſo do<g ref="char:EOLhyphen"/>ing they may both ſave themſelves, and them that hear them.</hi> Without queſtion, this Neglect hath cauſed ſo many raw and undigeſted Sermons, and impertinent Books. But now, alas, how ſhould it be much better? Muſt they make Brick with<g ref="char:EOLhyphen"/>out Straw? Can they give themſelves <hi>[wholly]</hi> to this Ser<g ref="char:EOLhyphen"/>vice, when the Care of their Families lies upon them, and little care is taken by the Churches to ſet them free from thoſe Incum<g ref="char:EOLhyphen"/>brances? Do we not ſee they are forced to leave the Work of God,<note place="margin">Nehem. 13.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0, 11.</note> and flee to their own Fields, like the <hi>Levites</hi> in <hi>Nehemi<g ref="char:EOLhyphen"/>ah</hi>'s time, and none are yet found like <hi>Nehemiah</hi> to reform herein?<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Tim. 2.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, 14, 15.</note> How then ſhould they <hi>ſtudy to ſhew themſelves ap<g ref="char:EOLhyphen"/>proved unto God, Workmen that need not be aſhamed, rightly dividing the Word of Truth,</hi> as they are charged to do? Certainly the Churches muſt bear the Blame, who are found guilty herein. And now amongst other things of this kind, which we have cauſe to bewail, there is a Book extant, printed <hi>1672,</hi> intituled, <hi>Theopolis,</hi> or, <hi>The City of God, New Je<g ref="char:EOLhyphen"/>ruſalem,</hi> &amp;c. wherein 'tis aſſerted, That the thouſand Years Reign will be before the Perſonal Coming of Jeſus Chriſt, in a Comment upon the <hi>20th</hi> and <hi>21ſt</hi> Chapters of the <hi>Revelation,</hi> by a Nameleſs Author: The Conſequence whereof is very ſad, tending to prompt Chriſtians to that unchriſtian and unbecoming Service the Goſpel no ways injoins them, and to exaſperate the Government againſt them; a thing which all wiſe Men are, as much as in them lies, concerned to avoid, and enter a Proteſt a<g ref="char:EOLhyphen"/>gainſt. The which erroneous Opinion, I hoped had been worn out and relinquiſhed by time, that ſo no Man needed openly to appear againſt it, ſince God Almighty hath given ſufficient Demonſtrati<g ref="char:EOLhyphen"/>on of the contrary, by things that do run in <hi>another</hi> way, contrary to theſe Mens Expectations, as alſo by what hath been writ on the contrary. But now again, I find this Error revived by Ano<g ref="char:EOLhyphen"/>ther, in a Book printed <hi>1680,</hi> intituled, <hi>A Treatiſe of the New Heavens and New Earth,</hi> by <hi>T. M.</hi> whereunto is added
+<pb n="v" facs="tcp:153532:3"/>(as the Author ſaith) a true State of the thouſand Years Time, affirming it to be before the Second Coming of Chriſt.</p>
+            <p>Conſidering now the dreadful Conſequence of theſe Mens Opi<g ref="char:EOLhyphen"/>nions, thus publiſhed to the World in Print, whereby ſome are al<g ref="char:EOLhyphen"/>ready led into Error, <hi>&amp;c.</hi> gives me now the occaſion thus to appear, that if it may be a Means to recover ſome that are unbiaſſed, and not wedded to their Fancies, and to prevent others from falling in with them, to the great ſcandal of the Chriſtian Religion, and the prejudice of its Profeſſors. Which Holy Goſpel is ſtiled the <hi>Goſpel of Peace,</hi> and no ways countenances the contrary: Be it therefore ever remembred what our Bleſſed Lord ſaid when in the hands of his Betrayers, <hi>Put up thy Sword again into its place; for all they that take the Sword, ſhall periſh with the Sword,</hi> (which Experience hath hitherto proved true): I ſay again, If this be the fruit of theſe my Endeavours, I ſhall rejoice; for 'tis not any Prejudice againſt theſe Authors, (for I know them not) but their erroneous Tenets that I give my Teſtimony againſt. Nei<g ref="char:EOLhyphen"/>ther would I ſeem in the leaſt to reflect upon any good Service they have otherwiſe done, particularly that Part called the firſt Subject of the ſecond or laſt Book I mentioned, <hi>i. e.</hi> the <hi>Treatiſe of the New Heavens and New Earth;</hi> which I would have all that read me, take notice I oppoſe not, but do heartily wiſh there were a more diligent Search after, and a clearer Knowledg of it. I will only mind the Author of one or two things as to that, and ſo paſs it: In <hi>p. 3, 4.</hi> he tells us, <q rend="margQuotes">That in the Renewed State, or Glorious Kingdom of Chriſt, there ſhall be no Sun, Moon, or Stars in their Courſes;</q> and no Temple, <hi>&amp;c.</hi> Now this at beſt, is but an unwary Harangue. He gives this further as a Reaſon, "Becauſe (ſaith he) there will be no Night there. But, alas, how ſhort this is of proving that for which it's brought, will appear if we conſider; <hi>1ſt,</hi> The Text doth not ſay, There will be no Sun, <hi>&amp;c. But there will be no need of it. 2dly,</hi> Not in every place in that time neither, but in that City. Again, in <hi>p. 5.</hi> for Anſwer to an Objection, he makes it a Queſtion, Whe<g ref="char:EOLhyphen"/>ther
+<pb n="vi" facs="tcp:153532:4"/>there be any Hell now, <hi>viz.</hi> any Place ſo called? A needleſs Queſtion, (in my Opinion) and of bad conſequence; for by that Rule, we may as well queſtion, whether there be any Heaven now? And then whither ſhall we run at laſt? even to queſtion whether there be any God or Devil. Therefore he had far better ne're undertook to anſwer ſuch an Objection, than left it ſo. <hi>3dly.</hi> If this be true, as to the <hi>New-Heavens,</hi> and <hi>New-Earth,</hi> as I grant in the main, of what he there ſaith it is, then how contra<g ref="char:EOLhyphen"/>dictory is this to the former Book, and unhinges all that was ſaid in it by the firſt Author. That it is as contrary as Light is to Darkneſs, conſider theſe Inſtances: In the firſt Book the Au<g ref="char:EOLhyphen"/>thor tells us, <hi>p. 164,</hi> 
+               <q rend="margQuotes">That if theſe glorious things ſpoke of <hi>Rev. 21.</hi> of the <hi>New-Heavens,</hi> and <hi>New-Earth,</hi> and <hi>New-Jeruſalem,</hi> be taken in the Letter, are but of earthly, corruptible, periſhing and fading things:</q> The latter Author, in his little Treatiſe, frequently affirms the literal and perpetual Duration of theſe things, <hi>Rev. 21.</hi> And his <hi>11th</hi> Arg. <hi>p. 6.</hi> is this, <q rend="margQuotes">That the <hi>New-Heavens</hi> and <hi>New-Earth,</hi> Rev. <hi>21.1.</hi> are utterly inconſiſtent of any other Senſe, <hi>viz.</hi> than literal and eternal.</q> The firſt Author affirms this <hi>New-Heaven,</hi> and <hi>New-Earth,</hi> and <hi>New-Jeruſalem,</hi> Rev. <hi>21.</hi> to be only Myſtical and Spiritual, and to be fulfilled before the Perſonal Coming of Chriſt; as you may ſee <hi>p. 125, 127.</hi> And the laſt Author affirms it to be literal, material, and to be after Chriſt's Perſonal Coming, after the Day of Judgment, as <hi>p. 2.</hi> Thus I have ſhewed the Contradiction. <hi>2dly,</hi> That it unhinges all that the firſt wrote about his thouſand Years Reign, as to the time of it, is alſo evident, if you conſider how he makes his No<g ref="char:EOLhyphen"/>tion, <hi>viz. Rev. 20,</hi> and <hi>21 chap.</hi> an Allegory; and the foun<g ref="char:EOLhyphen"/>dation of his thouſand Years Reign; I ſay, all his Diſcourſe is built hereon, as you may ſee <hi>Title-page,</hi> and <hi>p. 229.</hi> with the whole Diſcourſe about it.</p>
+            <p>But ſee how much theſe Men have miſtaken themſelves, ar<g ref="char:EOLhyphen"/>guing from falſe Premiſſes, miſtaking Scriptures, making an
+<pb n="vii" facs="tcp:153532:4"/>Allegory of that which is ſpoke literally. The firſt Author tells us, <hi>p. 8.</hi> 
+               <q rend="margQuotes">'Tis alike injurious to Truth, to take a myſterious Allegory in the Letter, as to make an Allegory of the plain Scripture.</q> Now by his grant, 'tis alone, or alike dangerous: How he quits himſelf of the latter, let all Men judg, when we have made a Trial.</p>
+            <p>This Author propoſes, <hi>p. 10, 11, 12.</hi> Firſt, As neceſſary to the Expoſition of the difficult things in theſe <hi>20th</hi> and <hi>21ſt</hi> Chapters of the <hi>Revelation,</hi> as previous to all, and of abſolute neceſſity: <hi>1ſt,</hi> Prayer: <hi>2dly,</hi> Reading: <hi>3dly,</hi> Meditation: <hi>4thly,</hi> Conference: <hi>5thly,</hi> Practice, (all very good.)</p>
+            <p>As to the four firſt, I hope I may ſay I have herein exerciſed my ſelf long before this <g ref="char:V">Ʋ</g>ndertaking, as many can bear me wit<g ref="char:EOLhyphen"/>neſs; and to the laſt, let my Work ſpeak for me, and not my own Mouth. After theſe, the Author lays down ſome Rules to go by in order to our underſtanding things aright herein.</p>
+            <p n="1">
+               <hi>1.</hi> To compare any obſcure Places with thoſe that are plain.</p>
+            <p n="2">
+               <hi>2.</hi> To conſider what Viſion, or obſcure Paſſage, the Holy Ghoſt hath interpreted in the <hi>Revelation</hi> it ſelf; for of all ſuch, the Expoſition is undoubted and infallible; and ſo will the <hi>Reve<g ref="char:EOLhyphen"/>lation</hi> be the beſt Expounder of the <hi>Revelation;</hi> and from thoſe Expoſitions, proportionably borrow Light for the diſcovering of other obſcure Paſſages depending thereupon, or relating thereto, or contemporaneous therewith.</p>
+            <p>His <hi>3d</hi> Rule is, To obſerve diligently the Scope, Order and Harmony of the Prophecies; and further adds, <hi>p. 43.</hi> 
+               <q rend="margQuotes">That where there is no neceſſity to take a Scripture in a figurative Senſe, we are to take it in the Letter.</q> All which I approve, and ſhall endeavour to obſerve.</p>
+            <p>But now, how doth this Author vary from theſe Rules by him propoſed, as I hinted before? In his <hi>10</hi> and <hi>11 pag.</hi> he tells us what things are plain; and amongst the reſt, for our better un<g ref="char:EOLhyphen"/>derſtanding, this; <q rend="margQuotes">That Saints ſhall come forth in Venge<g ref="char:EOLhyphen"/>ance.</q> He bids us compare <hi>Rev. 19.13. Iſa. 63.2. Rev. 19.15.</hi> with <hi>Pſal. 29. Iſa. 63.3.</hi>
+            </p>
+            <pb n="viii" facs="tcp:153532:5"/>
+            <p>Now ſince by the word <hi>Saints,</hi> he means Chriſt's Diſciples, or Believers as ſuch; and by <hi>coming forth in Vengeance,</hi> he in<g ref="char:EOLhyphen"/>tends in this Life, <hi>viz.</hi> before the Perſonal Coming of Chriſt; as 'tis evident <hi>p. 3.</hi> and from the whole of his Diſcourſe.</p>
+            <p>Then I ask where this is plain in any of theſe Texts, when there is not one word of it, nor any thing like it in all the Texts; unleſs confident Aſſertion ſhall paſs for a plain Evidence? Nay, where is this found plain in all the Bible? Is not this contrary to the Scope, Order, and Harmony of other Scriptures? I am ſure the contrary is plain; yea, ſo plain, that he that runs may read it: See <hi>Rom. 12.19. Dearly Beloved</hi> (ſure theſe ſpo<g ref="char:EOLhyphen"/>ken to are Saints) <hi>avenge not your ſelves, but rather give place unto Wrath: for it is written, Vengeance is mine; and I will repay, ſaith the Lord.</hi>
+            </p>
+            <p>But no wonder when Men have got the knack to make hard things eaſy, and eaſy things hard; as I read an Author lately affirmed, <q rend="margQuotes">That the beginning-Principles of the Chriſtian Re<g ref="char:EOLhyphen"/>ligion were hard to be underſtood, notwithſtanding the Apoſtle calls them Milk for Babes, <hi>&amp;c.</hi>
+               </q> Thus we ſee oft-times Confi<g ref="char:EOLhyphen"/>dence ſupplies the place of Evidence. Again, he tells us, <hi>p. 11.</hi> 
+               <q>That, <hi>Rev. 1.20.</hi> i. e. the Myſtery of the ſeven Stars, and ſeven Golden Candleſticks, are interpreted by Chriſt; and the Myſtery of the Woman and the Waters, are explained and ex<g ref="char:EOLhyphen"/>pounded by the Spirit; and 'tis the Divine Key of the <hi>Reve<g ref="char:EOLhyphen"/>lation.</hi>
+               </q> Now be it ſo, that theſe are plain, and to be taken literally, why muſt not other things, that are explained alſo, be ſo accounted? For inſtance, <hi>Chap. 11.8.</hi> we read of a City where the dead Bodies of the two Witneſſes ſhall lie three Days and a half: It's told us as plain as words can be ſpoken, what Ci<g ref="char:EOLhyphen"/>ty this is, or at leaſt as plain as either of the Authors explained things.</p>
+            <p>See them parallel'd, at leaſt in one of them;</p>
+            <p>
+               <hi>The Woman which thou ſaweſt, is that great City which reigneth over the Kings of the Earth,</hi> chap. <hi>17.</hi> ult.</p>
+            <pb n="ix" facs="tcp:153532:5"/>
+            <p>This the Author acknowledges to be plainly meant of <hi>Rome,</hi> becauſe <hi>Rome</hi> reigned then over the Kings of the Earth, <hi>p. 11.17.</hi> As <hi>Rome</hi> is her literal Name, <hi>Babylon</hi> is her myſtical Name.</p>
+            <p>
+               <hi>Their dead Bodies ſhall lie in the Street of the GREAT CITY; which ſpiritually is called</hi> Sodom <hi>and</hi> Egypt; where <hi>alſo our Lord was Crucified,</hi> chap. <hi>11.8.</hi>
+            </p>
+            <p>Now let the Reader judg whether there is not as much, nay far more ground, to take this according to the latter than the firſt, <hi>viz.</hi> The Woman for <hi>Rome:</hi> All that we have to know the Woman to be meant of <hi>Rome,</hi> is but this one thing, (I deny not but 'tis enough) <hi>viz.</hi> She is that <hi>Great City that reigned over the Kings of the Earth.</hi>
+            </p>
+            <p>But touching the other, we have not only the ſame Deſcrip<g ref="char:EOLhyphen"/>tion, <hi>viz.</hi> That it is <hi>the great City where our Lord was Crucified;</hi> which is as well known at this time to the Churches to be <hi>Jeruſalem</hi> by that Deſcription, as Myſtery <hi>Babylon</hi> is known to be <hi>Rome</hi> by the Deſcription given in that behalf. But again, we have more in this Caſe; it's told us, That it's the City which was ſpiritually called <hi>Sodom</hi> and <hi>Egypt:</hi> Now we find <hi>Jeruſalem</hi> ſo called, <hi>Iſa. 1.10. Jer. 23.14.</hi> Perhaps you will ſay, <hi>Rome</hi>'s myſtical Name was written in her Fore head; <hi>Ergo,</hi> She might be known by it alſo. But pray hold! <hi>John;</hi> it's true, ſaw it ſo in the Viſion; but 'twas not ſo plain but he ſtill wondred, and that with great admiration, who this Harlot ſhould be; as you may ſee <hi>ver. 6, 7.</hi>
+            </p>
+            <p>And yet, notwithſtanding this, at leaſt equal (nay more) Plainneſs, the Author makes this an Allegory, as you may ſee <hi>p. 48, 49, 50.</hi> 
+               <q rend="margQuotes">A myſtical City, myſtical Prophets, myſtical Heaven.</q> And why not as well a myſtical Chriſt, and a my<g ref="char:EOLhyphen"/>ſtical Crucifying in a myſtical City, <hi>viz.</hi> the Hearts of Men?
+<pb n="x" facs="tcp:153532:6"/>as <hi>William Pen</hi> the Quaker, againſt <hi>Muggleton,</hi> p. <hi>58.</hi> and in his Vindication of <hi>George Fox,</hi> p. <hi>12.</hi> Sect. <hi>6.</hi>
+            </p>
+            <p>But again; Why muſt this City, <hi>New-Jeruſalem,</hi> chap. <hi>21.</hi> be an Allegory with this Author? Is it becauſe St. <hi>John</hi> had not ſo clear a ſight of <hi>this City?</hi>
+               <note place="margin">p. 17. 3. 21. 10.</note> Certainly this cannot be ſuppoſed, un<g ref="char:EOLhyphen"/>leſs the Author imagines that the Wilderneſs will give a better Proſpect of <hi>Myſtery Babylon,</hi> than a great and high Moun<g ref="char:EOLhyphen"/>tain will do of the <hi>New-Jeruſalem,</hi> which cannot lightly be ſup<g ref="char:EOLhyphen"/>poſed; and 'tis evident, here's as plain a Deſcription of this as the other. But he tells you, <hi>p. 164.</hi> 
+               <q rend="margQuotes">That it's called an Alle<g ref="char:EOLhyphen"/>gory, <hi>Gal. 4.24.</hi>
+               </q> Now whether <hi>New-Jeruſalem</hi> be <hi>there</hi> ſo called, I need give no other Anſwer, but deſire the Reader to ſee if he can find any ſuch thing in that Text.</p>
+            <p>'Tis evident to all that will not ſhut their Eyes,<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 11.10,</note> That our God hath builded a City for his Saints, and will one day beſtow it upon <hi>Abraham</hi> and his Sons for a Reward of their Loſſes;<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. 3.12. <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ap. 21.2.</note> and this City ſhall come down from God out of Heaven: it's for the Saints, and therefore not the Saints, as this Author affirms, <hi>p. 156.</hi> The Saved Ones ſhall walk in it, <hi>ver. 24. Ergo,</hi> Not the City it ſelf; <hi>There ſhall in NO WISE enter into it any thing that defileth,</hi> &amp;c. <hi>ver. 27.</hi> Which cannot be meant of the Church here in this mortal State, before the Perſonal Coming of Chriſt, in the primeſt and pureſt Age that ever was or ſhall be. Further; This Author will have the Dragon, <hi>Rev. 12.9.</hi> and <hi>20.2.</hi> to be allegorical or figurative, <hi>viz.</hi> the Pagan Empire, not any particular Perſon or Creature, <hi>p. 14, 15.</hi> although there's none of thoſe, he calls plain things, ſo plainly deſcribed. He tells you of ſome places where ſome other are called the De<g ref="char:EOLhyphen"/>vil: Admit this to be true, 'twill not prove the other; for not only in this Book of the <hi>Revelation,</hi> but in the whole Bible, there is not a plainer Speech. And we may as well, with the Quakers, conclude that all the Scriptures that ſpeak of the Devil, are meant only of a myſtical and figurative Devil: And I dare ſay, you may as ſoon find a <hi>Dolphin</hi> in the Wood, as a <hi>Devil</hi> in Hell,
+<pb n="xi" facs="tcp:153532:6"/>if this be not he: for pray mark how our Lord deſcribes him, <hi>That old Serpent, called the Devil, and Satan, which de<g ref="char:EOLhyphen"/>ceiveth the whole World.</hi> If this can be applied to any other, I muſt confeſs my ſelf very ignorant therein.</p>
+            <p>But I rather conclude this Notion to be like <hi>W. Deusbery</hi>'s Interpretation of <hi>Matth. 21.</hi> touching the Aſs that Chriſt rode upon; which he hath taken the Boldneſs to affirm, That it was the wild Nature in all the Children of the Lord. Another ſaith, That it was the Lord's People. And <hi>G. W.</hi> a Quaker, likewiſe, upon <hi>Rev. 11.8.</hi> ſaith, That City is the Rock of A<g ref="char:EOLhyphen"/>ges. And indeed, if Men may take this Liberty in their inter<g ref="char:EOLhyphen"/>preting Scripture, then I may boldly ſay, The plaineſt Scripture will not ſcape their Allegorizing Frames.</p>
+            <p>But now if this Book of the <hi>Revelation</hi> be the Key to unlock the whole Bible, (as this Author confeſſeth) then 'tis ſtrange the Key ſhould be made more difficult than the Lock; for ſo in<g ref="char:EOLhyphen"/>deed it is, if the moſt part be an Allegory, as this Man affirms it is.</p>
+            <p>It's called not only <hi>A Revelation,</hi> but <hi>The Revelation;</hi> a wrong Name, if this Man's Doctrine be true. True it is, that what is therein delivered, (as many other places of Scripture are) is ſet forth by Metaphors; but it follows not, That therefore the Doctrine there delivered is in it ſelf Allegorical, or but Me<g ref="char:EOLhyphen"/>taphorical: For inſtance,<note place="margin">Chap. 1.</note> The ſeven Churches are ſet forth by ſeven Golden Candleſticks; and the ſeven Miniſters, or Meſſen<g ref="char:EOLhyphen"/>gers, by ſeven Stars. Now will any wiſe Man conclude theſe ſeven Churches, and ſeven Meſſengers, are but figurative Chur<g ref="char:EOLhyphen"/>ches and Meſſengers, and not really ſuch? And ſo <hi>Rome</hi> is ſet forth by a great and brave decked Harlot; what then,<note place="margin">Chap. 17.</note> muſt this be only a Figure, (viz. <hi>Rome</hi>) and not a real City, as ſome gether figurative, and ſeveral others alſo; but this Author ac<g ref="char:EOLhyphen"/>knowledges, the contrary. So of the Waters. Again,<note place="margin">Chap. 12, &amp; chap. 20.</note> the De<g ref="char:EOLhyphen"/>vil is ſet forth by a great red Dragon, (a fit Similitude indeed;)
+<pb n="xii" facs="tcp:153532:7"/>But what then? Muſt this Devil be nothing but a Figure ſtill? Sure in all ſuch Figures, there is ſomething figured out that is really ſo.<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>p. 11.</note> So by the two Candleſticks and two Olive-Trees, are ſet forth the two Prophets: But what then? Muſt theſe Fi<g ref="char:EOLhyphen"/>gures be but a Figure of a Figure ſtill? although our Lord tells us plainly, They are two Prophets ſet forth by theſe two famous Similitudes; and deſcribes their Work, and the time of it, with their Death, how it ſhall be, and by whom; how long they ſhall lie dead, and where, and what ſhall be done to them in that time by their Enemies; and alſo their perſpicuous and dreadful Re<g ref="char:EOLhyphen"/>ſurrection and Aſcenſion: All which cannot be applied to any thing elſe ſave two Perſons.<note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> his 48, 49 Pages.</note> Yet this Author will have theſe two Prophets to be but figurative Prophets ſtill, <hi>viz.</hi> The Church of God; and others of the ſame ſtamp with this Author, Magiſtracy and Miniſtry; by ſome the two Teſtaments, <hi>&amp;c.</hi> O what ſtrange ſtuff have we here! Brave Interpreters of Scripture! But let God be true, though every Man a Liar. True it is, many things in this Book are delivered by Metaphors, but not all; and thoſe that are ſo, ſignify ſomething that's real: Therefore according to this Author, <hi>p. 3.</hi> the Conſideration whereof calls for the greater Circumſpection, Warineſs and So<g ref="char:EOLhyphen"/>briety, as indeed other Writings do, wherein are ſome things hard to be underſtood, which they that are unlearned and un<g ref="char:EOLhyphen"/>ſtable, wreſt to their own <hi>Deſtruction.</hi>
+               <note place="margin">Pet. 3.16.</note> I commit all that I have ſaid to the Bleſſing of God, and the Conſideration of his Churches.</p>
+            <closer>
+               <signed>W. S.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="pamphlet">
+            <div type="part">
+               <pb n="1" facs="tcp:153532:7"/>
+               <head>The <hi>ANSWER</hi> to the Firſt Book, <hi>Intituled,</hi> THEOPOLIS, <hi>&amp;c.</hi>
+               </head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>I Have impartially read, and ſeriouſly conſidered what you have writ in your <hi>Theopolis,</hi> &amp;c. weighing it in the Ballance of the Sanctuary, (according to the Rules propoſed by you) and find it greatly wanting; inſomuch, that I cannot but wonder you ſhould take ſo much pains to ſo little purpoſe; for all that you have ſaid (in my Judgment) proves nothing for which you urge it, <hi>viz.</hi> That the Saints ſhall reign a thouſand Years upon Earth before Chriſt's Second Coming. And that you may ſee your great Miſtake herein, I ſhall give a brief and plain Anſwer to what may ſeem moſt material therein for that purpoſe (not in the leaſt denying, but plainly acknowledging the glorious Kingdom of Chriſt on Earth.)</p>
+               <p>And firſt you tell us, (<hi>page</hi> 97, 98.) <q rend="margQuotes">That there is a five-fold Kingdom belongs to Chriſt, ſpoken of in the Scripture, <hi>viz. 1ſt,</hi> A Providential: <hi>2dly,</hi> A Spiritual: <hi>3dly,</hi> A Myſtical: <hi>4thly,</hi> A Mo<g ref="char:EOLhyphen"/>narchial, or Davidical Kingdom: <hi>5thly,</hi> A glorious Myſphatical Kingdom, <hi>viz.</hi> The Soveraignty that Chriſt in Perſon (with all the Saints in their glorified Bodies with him) ſhall, upon their general Reſurection and Judgment, exerciſe here upon the Earth, before all is given up into the Father's hands.</q>
+               </p>
+               <p>And for want of a right diſtinguiſhing herein, proceed (as you humbly apprehend) all the miſtaken Notions and Differences about the Kingdom of Chriſt, treated of in your Book.</p>
+               <p>And truly, I do acquieſce with you herein; for I conclude your wrong Diſtinction, or Miſapprehenſion of a five-fold Kingdom of Chriſt, as thus diſtinguiſhed by you, is the great cauſe of all thoſe your miſtaken Notions about the Kingdom of Chriſt in your Book: for to ſay nothing of four of your five, I cannot yet ſee by all that you have ſaid, that the Holy Scripture ſpeaks of your fourth King<g ref="char:EOLhyphen"/>dom,
+<pb n="2" facs="tcp:153532:8"/>as diſtinguiſhed by you, from the fifth Kingdom, (which fourth you call a <hi>Monarchial</hi> or <hi>Davidical Kingdom</hi>) that is to take place here over the Nations before the Second Coming of Chriſt; but ra<g ref="char:EOLhyphen"/>ther, that the Holy Scripture is wholly a ſtranger to it.</p>
+               <p>And now I ſhall anſwer your Arguments urged on that account. The firſt ſort you direct your Reader to,<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0, 31, 32.</note> as moſt fit to be taken no<g ref="char:EOLhyphen"/>tice of in the firſt place, are in number five, urged by you to prove (at leaſt conſequentially, or in the ſecond place) That Chriſt will not come in Perſon at the beginning of the thouſand Years.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>1</label> Your firſt Argument is, <q rend="margQuotes">Becauſe his Perſonal Coming is not to be till the Judgment-Day: And that (ſay you) is not to be till after the thouſand Years, and after the Battel of <hi>God</hi> and <hi>Magog;</hi> (meaning <hi>Gog</hi> &amp;c. <hi>Rev.</hi> 20.8.)</q>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> The firſt part of this Argument I grant, <hi>viz.</hi> That his Perſonal Coming is not to be till the Judgment-Day.</p>
+               <p>But the two laſt Branches I deny, <hi>viz.</hi> That the Judgment-Day is not to be till after the thouſand Years; after the Battel of <hi>God</hi> and <hi>Magog.</hi> For 'tis evident to all that will not ſhut their Eyes, that the Judgment-Day begins at the beginning of the thouſand Years, <hi>Rev.</hi> 20.4. <hi>AND I SAW THRONES, AND THEY SAT <g ref="char:V">Ʋ</g>PON THEM, AND J<g ref="char:V">Ʋ</g>DGMENT WAS GWEN <g ref="char:V">Ʋ</g>NTO THEM,</hi> &amp;c. with the Chapter before, compared with <hi>Dan.</hi> 7. where the ſame thing is ſpoken of; He beheld <hi>the little Horn,</hi> (<hi>viz.</hi> the Man of Sin, or great Antichriſt) <hi>make War with the Saints, till the Antient of days comes; and one like the Son of Man came to the Antient of days;</hi> yea, near before him, <hi>and until the Throne were ſet,</hi> or <hi>PITCHED DOWN,</hi> (ſo it is in the Original) not thrown down: <hi>And the An<g ref="char:EOLhyphen"/>tient of days did SIT,</hi> ver. 9. with his Son brought near before him, or ſet by him, with the Saints, <hi>ver.</hi> 10.22. <hi>THE J<g ref="char:V">Ʋ</g>DGMENT WAS SET,</hi> ver. 10.26.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>2</label> 
+                  <q rend="margQuotes">Becauſe when he comes in Perſon, 'tis not to ſuch a Work as this, <hi>viz.</hi> to fight and ſubdue Enemies with material Swords, nor to put his People as the Lamb's Army, and Followers upon any ſuch Service at that time; being then all to be in the Reſurrection and glorified State, made like himſelf in Glory; and as the An<g ref="char:EOLhyphen"/>gels of God. Neither will any of his Enemies be in a Capacity to make Reſiſtance or Oppoſition; who in their own Perſons ſhall
+<pb n="3" facs="tcp:153532:8"/>be deſtroyed by Fire, and the very Earth they inhabit, and all its Works burnt up and conſumed; at whoſe Preſence, the Earth and Heaven flee away.</q>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> If by thoſe words <hi>(not to ſuch a Work as this)</hi> you mean, not at all, then I deny it; and tell you, 'Tis to do ſuch a Work as that.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſon </seg>1</label> You reaſon; <q rend="margQuotes">Firſt, Becauſe Chriſt's People will be all in the Reſurrection and glorified State, made like himſelf in Glory, and as the Angels of God.</q>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> Now this Reaſon of yours I alſo deny; and tell you, You are greatly miſtaken herein: for although all the Saints that died in the Faith, and are found alive in it when Chriſt comes in the Clouds, <hi>&amp;c.</hi> ſhall then be raiſed, changed and glorified, and ſo ſaid to be in the Reſurrection, <hi>&amp;c.</hi> yet all Chriſt's People that ſhall ſtand with him,<note place="margin">Rev. 14.1. Zech. 14.4.</note> and follow him in that Army when he ſhall come down, and ſtand upon <hi>Mount Zion,</hi> and upon the <hi>Mount of Olives,</hi> will not then be in the Reſurrection, <hi>viz.</hi> raiſed and glorified, <hi>&amp;c.</hi> For part of thoſe People and Followers, or Army, will be of the Jews, who will not be converted till after the Reſurrection of the fore-mentioned Saints, and therefore not raiſed and ſo changed with them. 'Tis conſpi<g ref="char:EOLhyphen"/>cuous enough, that their Converſion will not be fully wrought till the Deliverer (<hi>viz.</hi> Chriſt) comes to <hi>Zion,</hi>
+                  <note place="margin">Iſa. 59.20. Rom. 11.25, 26.</note> 
+                  <hi>Then ſhall he turn <g ref="char:V">Ʋ</g>n<g ref="char:EOLhyphen"/>godlineſs from</hi> Jacob: Or more fully thus, Our Lord Chriſt appear<g ref="char:EOLhyphen"/>ing in the Clouds of Heaven, and the Saints Reſurrection, and Aſ<g ref="char:EOLhyphen"/>cenſion up to him, together with the wonderful things that ſhall be wrought then; and Chriſt's coming down with his glorified Saints and Angels, to deliver the whole Houſe of <hi>Iſrael</hi> (then remaining) from the hand of their ſtrong and mighty Enemies,<note place="margin">Iſa. 59.19. Ezek. 38.9.16. Zec. 14.2, 3.</note> that will come in like a Flood, a Storm, and Cloud to cover the Land; yea, all Nations gathered againſt <hi>Jeruſalem</hi> to battel. Theſe things, I ſay, will produce the Jews Converſion, or be the means to bring forth that Nation; and therefore, not till theſe things be accompliſhed, ſhall that Nation be converted: <hi>Ergo,</hi> Not raiſed and changed, but ſtill in their mortal State: Therefore, according to your own Ar<g ref="char:EOLhyphen"/>gument, may, under Chriſt, do ſuch a Service as above ſpecified. We are likewiſe told, the Jews, the number of whom,<note place="margin">
+                     <hi>Rev. 7.4.</hi> to the <hi>8</hi> Verſe. Verſe <hi>9.</hi>
+                  </note> even of all the twelve Tribes of <hi>Iſrael,</hi> will be one hundred forty four thou<g ref="char:EOLhyphen"/>ſand; who are diſtinguiſhed from the innumerable Company of glo<g ref="char:EOLhyphen"/>rified Saints; as you may clearly ſee:<note place="margin">
+                     <hi>Chap.</hi> 14. 1.</note> Theſe are ſaid <hi>to ſtand with
+<pb n="4" facs="tcp:153532:9"/>the Lamb upon Mount Zion,</hi>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. 19, 20.</note> when <hi>the Sickle ſhall be thruſt into the Har<g ref="char:EOLhyphen"/>veſt;</hi> yea, <hi>when the Wine-preſs ſhall be trodden without the City</hi> (Jeru<g ref="char:EOLhyphen"/>ſalem) <hi>in the Valley of</hi> Jehoſhaphat,<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 3.2, 12, <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>, 14.</note> when the Lord ſhall plead and decide the Controverſy of his People, and threſh the Nations by his Threſher,<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 4.13.</note> 
+                  <hi>i. e.</hi> the Daughter of <hi>Zion,</hi> (<hi>viz.</hi> the Inhabitants of <hi>Je<g ref="char:EOLhyphen"/>ruſalem,</hi> or <hi>Jews</hi>) yea, at that Day, when the Lord ſhall ſet his Feet upon the <hi>Mount of Olives,</hi> (which you acknowledg to be at the Perſonal Coming of Chriſt,<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ech. 14.4, 4.</note> and Day of Judgment, <hi>p.</hi> 101. <hi>Then</hi> Judah <hi>alſo ſhall fight at</hi> Jeruſalem.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſon </seg>2</label> Your next Reaſon, is, <q rend="margQuotes">Becauſe there will not be any of Chriſt's Enemies in a Capacity to make Reſiſtance, or Oppoſition, at his Perſonal Coming:</q> 
+                  <hi>Ergo.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> The Anſwer to this ſhall be ſhort, by denying what you have ſaid; and I tell you, That Enemies may be in a Capacity to oppoſe, though not to overcome: yea, 'tis well known a Child may oppoſe a Man, a Dwarf a Giant: But you tell us, <hi>They will be deſtroyed by Fire then.</hi> I confeſs they will be then incapable indeed, when they are burned to Aſhes: But pray what is this to the purpoſe? Will they not be in a Capacity before? Or, <hi>2dly,</hi> Will all Chriſt's Enemies be burned up before his Coming, that none ſhall be left to make Reſiſtance or Oppoſition at his Coming? You have brought no Text to prove it, and I know not of any Text that will do it; therefore I conclude none are bound to believe you.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſon </seg>3</label> Laſtly; You tell us, <q rend="margQuotes">The very Earth they inhabit, and all the Works thereof, ſhall be burnt up and conſumed; at whoſe Pre<g ref="char:EOLhyphen"/>ſence the Earth and Heaven flee away. <hi>Ergo,</hi> No room for ſuch a Work.</q>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> But, pray where doth Holy Scripture tell us ſo; <hi>i. e.</hi> That the Heavens and Earth ſhall be conſumed? Doth not your <hi>Second</hi> (in his Treatiſe, <hi>p.</hi> 5.) tell us, <q rend="margQuotes">That the Scripture doth not expreſs an <hi>Annihilation</hi> thereof?</q> 
+                  <hi>&amp;c.</hi> Again, what though the Scripture ſpeaks of ſuch great things to be done in that great Day of the Lord? yet doth it not follow from hence, that all theſe ſhall be done in the firſt Hour of that Day, and that before the Enemies make op<g ref="char:EOLhyphen"/>poſition. Thus much in anſwer to the Reaſons brought to prove your ſecond Argument.</p>
+               <pb n="5" facs="tcp:153532:9"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>3</label> 
+                  <q rend="margQuotes">Becauſe ſuch an Apprehenſion would make three Perſonal Comings of Chriſt; whereas we read but of two, (<hi>Heb.</hi> 9.28.) <hi>Who will appear the ſecond time,</hi> &amp;c. becauſe it is expreſly ſaid, <hi>He ſits at the Right-hand of God, till his Enemies be</hi> made <hi>his Foot ſtool.</hi>
+                  </q>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> What, ſuch an Apprehenſion make three Perſonal Comings! Yes, it may be ſo, if ſuch a skilful Artiſt as your ſelf had it in hand; who have got the knack of Diſtinction, who can divide and ſub<g ref="char:EOLhyphen"/>divide till you have made ten Corporal Reſurrections of one, as may be ſeen in your <hi>53d page:</hi> For without making three of two, or two of one, I am ſure it cannot be done. Again, if but two Per<g ref="char:EOLhyphen"/>ſonal Comings; then you infer, this at the beginning of the thouſand Years cannot be the ſecond Perſonal Coming: becauſe (ſay you) 'tis expreſly ſaid, <hi>He ſits at the Right-hand of God, till his Enemies be</hi> made <hi>his Footſtool.</hi> Here you think you have your Antagoniſt faſt, and are invincible. I confeſs you are ſafe enough yet, whilſt you have not here told us where 'tis thus expreſſed; and ſince I muſt al<g ref="char:EOLhyphen"/>ſo acknowledg, if my Memory fail not, 'tis expreſly ſaid ſo in all the Books that ever I read about this Subject, (and they are more than a good many) I mean thoſe Books written for a thouſand Years Reign before the Coming of Chriſt, to the everlaſting Shame and Conſuſion of your Faces, who have time after time affirmed, That this is expreſly written in the Holy Scripture, as we well know you intend in this place, and as you elſe-where in your Book affirm, (for this is three times at leaſt affirmed by this Author in his Book); by which you have miſerably deceived your ſelves and others, (as ſome in my hearing have confeſt). Be not offended, for herein I muſt be plain with you, take it as you pleaſe: Is it not to be won<g ref="char:EOLhyphen"/>dred at, that ever any Men of Learning and Conſcience ſhould bear the Face to affirm ſuch a thing? when I dare be bold to ſay, there is not one place in all the Bible that ſaith ſo. To miſtake at ſome times, in the buſineſs of Interpreting of Scripture, is an Infirmity we cannot help, though Caution had need be had therein, eſpecially in Caſes of this nature; but to tranſgreſs in this kind, looks too much like Preſumption. This may ſerve for an Anſwer at preſent, till I meet with it again.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>4</label> 
+                  <q rend="margQuotes">This conquering fighting Work, is not by Chriſt in Perſon, at this time of his glorious and terrible Appearing.</q>
+               </p>
+               <pb n="6" facs="tcp:153532:10"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> This I deny; but I will now hear your Reaſon.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Reaſon. </seg>
+                  </label> 
+                  <q rend="margQuotes">Becauſe the Execution then, upon the Enemies, will be (ſay you) ſudden and ſpeedy, like Travail upon a Woman with a Child; as a Thief in the Night; like Lightning; as it was in the days of <hi>Lot</hi> and <hi>Noah,</hi> with ſudden Deſtruction: and as a Snare, will he come upon all the Inhabitants of the Earth: This Work, at Chriſt's Perſonal Coming, will be done at an inſtant, ſudden<g ref="char:EOLhyphen"/>ly, at the Sounding of a Trumpet, in the Twinkling of an Eye: whereas this Work asks time gradually to be performed.</q> (And you comprehend in the firſt the Preparation for, and Judgment of the great Whore, <hi>&amp;c.</hi>)</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> Firſt, I muſt tell you, You have comprehended more into the thou<g ref="char:EOLhyphen"/>ſand Years than will be: for this Judgment of the great Whore will be before the thouſand Years, and not executed by Chriſt's Followers,<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. 17.16, <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>. <hi>
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>.</hi> 14.</note> but by them that afterward will <hi>give their Kingdom to the Beaſt,</hi> and afterward <hi>make War with the Lamb.</hi> Secondly; You ſay the Work of the beginning of the thouſand Years, asks ſome Time, <hi>&amp;c.</hi>
+               </p>
+               <p>Ay; And ſo will that alſo which will be done when Chriſt comes in Perſon: for although 'tis told us, <hi>Chriſt ſhall come as a Thief,</hi> &amp;c. <hi>viz.</hi> very ſuddenly and unexpectedly; yet 'tis not any where told us, That Work that he ſhall then do, ſhall be done as ſuddenly as a Thief cometh; nay that very Similitude, if you will follow it ſo far, lets us know the contrary: for though a Thief in the Night comes ſuddenly, yet he oft-times is long enough a doing his Work, <hi>viz.</hi> Rifling and Robbing, as ſome have ſadly experienc'd. So alſo tho Travail upon a Woman with Child cometh ſuddenly, yet her Delivery asks ſome time, and is not done in the Twinkling of an Eye;<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>en. <hi>7.12, 7, 24.</hi> 
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hap. <hi>8.3.</hi> 
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ompare <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hap. <hi>7.11.</hi> 
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h Chap. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>13, 14.</hi>
+                  </note> and ſo I may ſay of the days of <hi>Noah,</hi> &amp;c. for though it was ſudden, yet you cannot but know the Waters were forty Days increaſing, and prevailed upon the Earth one hundred and fifty Days before they began to abate, but were not dried up till twelve Months were compleated, <hi>&amp;c.</hi> Again, whereas you ſay, That Work of Chriſt's Perſonal Coming ſhall be done at the Sounding of a Trumpet, <hi>&amp;c.</hi> What then? the Queſtion may be how long the Trumpet ſhall ſound? Surely you will not (upon ſecond Thoughts) ſay no longer than the Twinkling of an Eye, for that's no Soun<g ref="char:EOLhyphen"/>ding at all.</p>
+               <pb n="7" facs="tcp:153532:10"/>
+               <p>But again; Where find you that any thing, ſave the Coming of Chriſt, and the Reſurrection, Change, and Aſcenſion of Saints, ſhall be at the Sound of a Trumpet? and yet ſurely you will conclude, there's ſomething more to be done when Chriſt comes.</p>
+               <p>Again; You ſay the Work that Chriſt ſhall do at his Perſonal Coming, will be done in the Twinkling of an Eye: But pray what Work elſe beſides the Change of Saints? I find no other, nor any body elſe for me: The Text that ſpeaks of this, (for there is no other that I can find) <hi>viz.</hi> of ſomething done then, in the Twink<g ref="char:EOLhyphen"/>ling of any Eye, is 1 <hi>Cor.</hi> 15.51, 52. which ſpeaks ſo plain of the Change of Saints only to be in the Twinkling of an Eye, that un<g ref="char:EOLhyphen"/>leſs the Reader's Eyes twinkle, and that greatly too, when he be<g ref="char:EOLhyphen"/>holds the Text, he cannot lightly be miſtaken.</p>
+               <p>You alſo tell us, The Execution upon the Enemies will be ſudden and ſpeedy, like Lightning, at the Perſonal Coming of Chriſt.</p>
+               <p>But how you came to know this, I much queſtion,<note place="margin">Mat. 24.27. Luke 17.24.</note> ſince I find no Text in holy Writ reveals it: True it is, the Coming of our Lord is compared to Lightning; but then it ought to be obſerved, 'tis not in reſpect of the Swiftneſs of it, but in reſpect of the Viſi<g ref="char:EOLhyphen"/>bleneſs of it. But again, admit it had; what's this to the Queſtion? which is concerning the Deſtruction of the Enemies. Again, You further add, <hi>As a Snare,</hi> &amp;c.</p>
+               <p>I grant it; But what's this to the Queſtion? for Enſnaring and Deſtroying are two things: Do you not know many Creatures are taken or enſnared ſuddenly, but not deſtroyed ſo quickly. Thus you may ſee how you deceive your ſelf and others in ſuch an ambiguous Manner.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>5</label> 
+                  <q rend="margQuotes">Neither can Chriſt's Perſonal Appearing be at this time; becauſe then it muſt be ſuppoſed that Chriſt, being in the Camp of the Saints, and beloved City, ſhall ſuffer Himſelf, and all the glorious Angels and glorified Saints, to be beſieged and ſtraitned by the <hi>Gog. Magog</hi> Army.</q>
+               </p>
+               <p>
+                  <q rend="margQuotes">Therefore muſt this be done by his virtual Preſence, Power and Spirit, (though ſpoken as if he did it in Perſon) and theſe great Conqueſts effected, <hi>&amp;c.</hi>
+                  </q>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> O God! What is it that Men will not ſtretch at to maintain their own Fancies? In your Book, you give us an Inſtance of <hi>Ma<g ref="char:EOLhyphen"/>ton,</hi> which you commend, <hi>viz.</hi> 
+                  <q rend="margQuotes">Whatſoever Text of Scripture
+<pb n="8" facs="tcp:153532:11"/>is expounded any other ways than God meant by it, it is, ac<g ref="char:EOLhyphen"/>cording to its Interpretation, the Word of Man and not of God; and conſequently, in adhering to ſuch Interpretations, we believe not what God ſaith, but what Man doth make him ſay.</q>
+               </p>
+               <p>How much you have fulfilled this Man's Sentence in Expounding this Scripture, contrary to what God meant by it, let all judg, and let your Tongue or Pen condemn you: for pray read the Text, and ſee whether there be any ſuch thing in it, or at all like unto it: The Text is <hi>Rev.</hi> 20.7, 8, 9, 10. <hi>And when the thouſand Years are expired, Satan ſhall be looſed out of his Priſon; and ſhall go out to deceive the Nations which are in the four Quarters of the Earth,</hi> Gog <hi>and</hi> Magog, <hi>to gather them together to battel: the Number of whom is as the Sand of the Sea. And they went up on the Breadth of the Earth, and compaſſed the Camp of the Saints about, and the beloved City; and Fire came down from God out of Heaven, and devoured them. And the Devil that deceived them was caſt into the Lake of Fire and Brimſtone; where the Beaſt and the falſe Prophet are, and ſhall be tormented Day and Night for ever and ever.</hi>
+               </p>
+               <p>Now I will appeal to any judicious and unbiaſſed Man, whe<g ref="char:EOLhyphen"/>ther here be any Suffering and Straitning (in this Man's Senſe) to Chriſt, or his Angels and Saints: You may as well ſay, Chriſt now ſuffers in Heaven; and yet this muſt paſs for an Argument.</p>
+               <p>Thus I have done with the five firſt Arguments which you have laid down to prove, That Chriſt comes not in Perſon at the begin<g ref="char:EOLhyphen"/>ning of the thouſand Years Reign; and therefore there muſt be (as you conclude) a thouſand Years reigning before his Perſonal Coming.</p>
+               <p>Let the Arguments and Anſwers be compared, and then judg.</p>
+               <p>In the next place I ſhall conſider your eleven Arguments, of the ſecond ſort, upon the latter part of the <hi>4th</hi> Verſe of the <hi>20th</hi> Chapter of the <hi>Revelation,</hi> i. e. theſe words, <hi>And I ſaw the Souls of them that were beheaded for the Witneſs of Jeſus, and for the Word of God, and which had not worſhipped the Beaſt, neither his Image, neither had received his Mark upon their Foreheads, or in their Hands; and they lived and reigned with Chriſt a thouſand Years.</hi>
+               </p>
+               <p>(Upon which words (ſay you) all this Opinion or Diſcourſe of yours, is grounded. See your large Sheet.)</p>
+               <pb n="9" facs="tcp:153532:11"/>
+               <p>When you have told us the great Difference of Writers and Commentators hereon, ſome judging it to be a Corporal Reſur<g ref="char:EOLhyphen"/>rection, others a Spiritual, <hi>viz.</hi> 
+                  <q rend="margQuotes">A renewing and reviving of the Soul, the Effects of Chriſt's Spirit upon the Hearts of Be<g ref="char:EOLhyphen"/>vers, <hi>&amp;c.</hi>
+                  </q> p. 47.</p>
+               <p>Then you tell us, <q rend="margQuotes">That it is humbly conceived, the Mind of the Spirit is here a Myſtical Reſurrection, or <hi>Civil Life,</hi> that they are ſaid to live, as moſt conſonant to Truth, (as you ſay) ſound Reaſon, and the Scope of the Place <hi>they lived.</hi>
+                  </q> And as you more largely ſpeak, <hi>p.</hi> 61, 62. <q rend="margQuotes">This Life is a reigning State both of the one and the other; and the contrary, <hi>viz. Death,</hi> a dethroned, ſcattered, impriſoned, and captivated State.</q>
+               </p>
+               <p>
+                  <hi>The Dead that lived not.</hi> Where you ſhew us, by the direct An<g ref="char:EOLhyphen"/>titheſis, That this Life and Death, of the one and the other, is the ſame, <hi>viz.</hi> That the Saints now are dead, the other now a<g ref="char:EOLhyphen"/>live; the Saints ſhall then live, and the Wicked then be dead, (<hi>viz.</hi> in the thouſand Years:) After the thouſand Years the Wicked ſhall live again, and the Saints then die again; according to the former Diſtinction: For (ſay you) They muſt take their turns; as the one goes up, (<hi>viz.</hi> to the Throne) the other goes down: They (<hi>viz.</hi> the Wicked) are not to live again till the thouſand Years be finiſhed; implying, (ſay you) That when the Dragon is looſed, there will then be a Military Power and Juriſdiction at leaſt, that they (viz. <hi>the Wicked</hi>) may live too. Again, in op<g ref="char:EOLhyphen"/>poſition unto Chriſt, and the <hi>Saints,</hi> in their encompaſſing the Camp of the Saints, and beloved <hi>City</hi> which their (<hi>viz.</hi> of the Wicked) ſaid raiſed State makes good.</p>
+               <p>You tell us further, That Living and Dying is variouſly taken; ſometimes literally, for the natural Spirit or eternal Life and Death; ſometimes figuratively, for a civil or myſtical Life and Death. For the latter you give us ſeveral Scriptures; which I have ſeriouſly conſidered, and find that many of them ſpeak not of any Life or Death at all; ſeveral more ſpeak of the natural Death, and the Reſurrection therefrom: But now admitting this, that there is ſuch a thing as a civil Life ſpoke of in theſe or ſome of them, the Queſtion then is, Whether this be intended in your Text, <hi>Rev.</hi> 20.4. which is now the Matter we are upon?</p>
+               <pb n="10" facs="tcp:153532:12"/>
+               <p>And for a leading Card, you preſent us (<hi>p.</hi> 51.) with the Aſ<g ref="char:EOLhyphen"/>ſemblies Annotations upon this place; which we ſhall not much regard, ſeeing their Interpretations, eſpecially upon this Book of the <hi>Revelation,</hi> are ſo like ſome others, <hi>viz.</hi> It's this or that, or the other, and ſometimes fix upon nothing; and alſo as inconſiſtent and contradictory to themſelves, as they are to the Truth; as any one may ſee that reads them: After which rate any Man may interpret Scripture all day long.<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e the Aſ<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>mblies An<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t. on <hi>Rev. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>0.4, 5, 6.</hi>
+                  </note> And in this very place, you may ſee, they tell us alſo, <hi>That this firſt Reſurrection, is a Riſing from the Death of Sin to the Life of Grace.</hi> And no marvel that poor delu<g ref="char:EOLhyphen"/>ded Sect of Quakers have got this by the end, <hi>viz.</hi> to call the riſing out of the Death of Sin to the Life of Grace, the firſt Reſurrecti<g ref="char:EOLhyphen"/>on; and <hi>Pythagoras</hi>'s Tranſmigration of the Soul, the ſecond Re<g ref="char:EOLhyphen"/>ſurrection; ſince our grave Annotators have thus led the Van, as the Papiſts did (in this thing) before them.<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ee Rhemiſh <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſt. Annot. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Rev. 20. <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>.</hi>
+                  </note>
+               </p>
+               <p>Therefore as we are not to mind them in the one, we ſhall as lit<g ref="char:EOLhyphen"/>tle regard them in the other; and ſo paſs on to your Poſition, <hi>p.</hi> 51. which is as followeth.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Poſition. </seg>
+                  </label> 
+                  <q rend="margQuotes">And that the Corporal Reſurrection of the Saints cannot be un<g ref="char:EOLhyphen"/>derſtood in this place, further appears.</q>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>1</label> 
+                  <q rend="margQuotes">Becauſe the Text, in the Letter of it, ſpeaks not of their Bo<g ref="char:EOLhyphen"/>dies, but Souls; and of the Souls only of them that were be<g ref="char:EOLhyphen"/>headed, as <hi>Rev.</hi> 6.9. Now it is no-where ſaid that Souls, in a proper Senſe, revive and are raiſed; becauſe they never die, be<g ref="char:EOLhyphen"/>ing immortal, and ſo not capable of a Reſurrection, neceſſitating therefore another Senſe.</q>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> Although you tell us that your Poſition further appears, <hi>viz.</hi> by your Arguments, than it did by the Aſſemblies Annotations; yet I muſt tell you, 'tis yet alike, and no better demonſtrated: and I can<g ref="char:EOLhyphen"/>not but wonder that ſo skilful a Man in Figures, ſhould no better diſcern the Text, nor what makes for, or againſt himſelf. For if this Argument hit your Antagoniſt, will it not as quickly return a<g ref="char:EOLhyphen"/>gainſt your ſelf? It will ſeem to do your Aſſembly of Annotators ſome Service for their Spiritual Reſurrection, (<hi>viz.</hi> the Renewing of the Souls, or their Notion of the Soul's Living and Reigning with him in Heaven) but it makes againſt your ſelf; unleſs you in<g ref="char:EOLhyphen"/>tend by your Civil Life, that the Saints ſhall reign a thouſand Years
+<pb n="11" facs="tcp:153532:12"/>without their Bodies; and then it would follow, the Wicked reign now without their Bodies alſo. This might ſuffice for an An<g ref="char:EOLhyphen"/>ſwer, but that I may not leave any in the dark; and therefore pray remember, that by a Figure called <hi>Metonymy, viz.</hi> one thing is put for another that hath ſome relation to it, ſo we find the Soul is put for the Body in ſeveral places of Scripture, as <hi>Pſal.</hi> 16.10. <hi>Acts</hi> 2.27. and ſo alſo by a Figure called <hi>Synechdoche,</hi>
+                  <note place="margin">Gen. 46.2. Acts 2.4. <hi>Chap.</hi> 7. 1.</note> 
+                  <hi>viz.</hi> a part put for the whole, is frequently found in this very caſe in Scrip<g ref="char:EOLhyphen"/>ture; and the one of theſe muſt needs be here intended, and very probable the latter. The Apoſtle chooſes to expreſs their Souls now, becauſe he had ſeen their Souls in the ſeparated State,<note place="margin">
+                     <hi>Chap.</hi> 6. 9, 10, 11.</note> cry<g ref="char:EOLhyphen"/>ing out, and wiſhing for ſuch a time as this; and therefore, here, to ſhew the Alteration, ſaith thus, <hi>I ſaw the Souls,</hi> &amp;c. which is as much as if he had ſaid, I ſaw thoſe Souls that before were without their Bodies, under the Altar, with their fellow (Slain) Servants, (and in that State ſaid to be dead) united to their Bodies, and live again, and reign with Chriſt. And that this muſt needs be the Senſe, and no other, conſider:</p>
+               <p>
+                  <hi>Firſt;</hi> They were really dead, expreſſed by this word <hi>Beheaded;</hi> and now ſaid to live again, (for ſo it is by the Antitheſis, <hi>The reſt lived not again</hi>).</p>
+               <p>
+                  <hi>Secondly;</hi> This is expreſſed after the ſame manner, as our Lord expreſſes his living again, <hi>Chap.</hi> 1.18. <hi>I am he that</hi> liveth, <hi>and was dead, and behold I am alive for evermore;</hi> (which is a Living again.)</p>
+               <p>
+                  <hi>Thirdly;</hi> What is more uſual in Scripture than this, both in re<g ref="char:EOLhyphen"/>ſpect of natural and eternal Death, to ſpeak after this manner, So many Souls were ſlain or died; the Soul that ſinneth ſhall die; and ſo of Life?</p>
+               <p>
+                  <hi>Fourthly;</hi> It's obvious to all from theſe words,<note place="margin">
+                     <hi>See Chap.</hi> 6. 11. <hi>Chap.</hi> 11. <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <hi>Chap.</hi> 12. 11. <hi>Chap.</hi> 13. 15.</note> 
+                  <hi>The reſt of the dead,</hi> that the lump or general is, That many are dead, both Saints and Wicked; among which, you have an Account before in this Book, that many Saints are killed, immediately before; and of the great Slaughter of the Wicked at ſeveral times, and divers ways, as in this Book at large may be ſeen: and at laſt that won<g ref="char:EOLhyphen"/>derful Slaughter, <hi>Chap.</hi> 19. to which this is joined, as appears by this word <hi>(And)</hi> in the firſt Verſe of this <hi>20th</hi> Chapter. And now of this dead Lump, whereof many of the Saints are ſaid to be be<g ref="char:EOLhyphen"/>headed immediately before, ſome are ſaid to live again: <hi>But the reſt of the Dead, viz.</hi> the Wicked, whereof many were (as aforeſaid) but
+<pb n="12" facs="tcp:153532:13"/>immediatly ſlain, lived not again till the thouſand Years were ex<g ref="char:EOLhyphen"/>pired.</p>
+               <p>Thus it's evident, that both Saints and Wicked were all dead before, <hi>viz.</hi> a natural or corporal Death; the one are raiſed, the other not, but lie in their Graves till after the thouſand Years.</p>
+               <p>
+                  <hi>Fifthly;</hi> Conſider the Antitheſis, which you have already gran<g ref="char:EOLhyphen"/>ted, <hi>viz.</hi> that Life and Death are the ſame in both Parties: Mark that. And if the Wicked ſhall never live the Civil Life (as you have defined it) after the thouſand Years, then it muſt be meant a Corporal Life.</p>
+               <p>But the Wicked ſhall not live ſuch a Myſtical or Civil Life; (<hi>viz.</hi> Reigning.) <hi>Ergo,</hi> It muſt needs be a Corporal Life here intended. The Conſequence of the Major is clear; the Minor is proved thus:</p>
+               <p>If the Wicked ſhall live again ſuch a Life, (<hi>viz.</hi> Civil, as before defined) after the thouſand Years;</p>
+               <p>Then the Holy Scripture doth ſome where or other teſtify of it.</p>
+               <p>But the Holy Scripture doth no where teſtify of any ſuch thing: <hi>Ergo,</hi> They ſhall not.</p>
+               <p>All that you bring to prove it, is but <hi>Rev.</hi> 20.8, 9. which proves no ſuch thing; for there's no Reigning mentioned: nay, ſo far from Reigning, that it's only attempted to overcome, whereby they might reign; but far off from being accompliſhed: They do not ſo much as hurt or ſtraiten any, (as you boldly, though with<g ref="char:EOLhyphen"/>out ground, affirmed) but are quickly deſtroyed. And it's well known ſuch Attempts may be made in a Nation, (as late Experi<g ref="char:EOLhyphen"/>ence hath ſhewn) and yet the Attempters never come to reign; which is the Life you ſpeak of, (viz. <hi>Reigning.</hi>)</p>
+               <p>As for the other Branch in this Argument of yours, <hi>viz.</hi> 
+                  <q rend="margQuotes">And of Souls only that were beheaded;</q> it is your next or ſecond Argu<g ref="char:EOLhyphen"/>ment, and therefore I ſhall not at preſent take notice of it.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>2</label> 
+                  <q rend="margQuotes">Becauſe if we are to underſtand a bodily Reſurrection of the Saints, (Martyrs only being here mentioned, and beheaded Martyrs too; taking in no other Saints, and only ſuch too that ſuffered under Antichriſt) then will Chriſt have but a ſmall Kingdom: And then only ſuch Martyrs, partaking of the firſt
+<pb n="13" facs="tcp:153532:13"/>Reſurrection, are to ſhare of Happineſs and Freedom from the ſecond Death; excluding all but ſuch, both from Happineſs, and Exemption from ſuch a Curſe, contrary to the Analogy of Faith, and the whole Current of Scripture: For what, by ſuch Doctrine, will become of all the Saints from <hi>Abel</hi> to this time, that were not Martyrs under Antichriſt?</q>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> What a wonderful Stir is here made of juſt nothing? as if this was altogether contrary to the Analogy of Faith, and the whole Current of Scripture, when in truth 'tis not at all.</p>
+               <p>For firſt; Pray conſider, Will not this, like your former Ar<g ref="char:EOLhyphen"/>gument, make as much againſt your ſelf? May we not ask the Queſtion, What will become of all the reſt of the Saints that ſhall not be beheaded, and yet ſhall be found alive when the King<g ref="char:EOLhyphen"/>dom is ſet up? Muſt they have no ſhare with the reſt? Cer<g ref="char:EOLhyphen"/>tainly this is contrary to the Analogy of Faith, and the whole Current of Scripture, <hi>&amp;c.</hi>
+               </p>
+               <p>Sir, Could you be ignorant of the Fallacy of this Argument when you made it? Did you not know that by a <hi>Synechdoche,</hi> a Part might be put for the Whole in this Caſe alſo, <hi>viz.</hi> Behead<g ref="char:EOLhyphen"/>ing, for all Afflictions? Is it not common in Scripture ſo to do? Is it not ſaid, <hi>Matth.</hi> 10.38. <hi>Luke</hi> 14.27. <hi>Whoſoever doth not take up, and bear his Croſs, cannot be my Diſciple, and is not worthy of me?</hi> Now, tell me, do all Chriſt's Diſciples take up a Croſs? 'Tis e<g ref="char:EOLhyphen"/>vident the Croſs is here put for all Afflictions.</p>
+               <p>Again; Is not the Reproach of Chriſt put for all Afflictions, <hi>Heb.</hi> 11.26? And is it not ſaid of all the Faithful,<note place="margin">Rom. 8.3.</note> that they <hi>are killed all the day long, accounted as Sheep for the Slaughter?</hi> But what need I ſpend time thus, but for the ſake of others? for pray read your <hi>58th, 59th,</hi> and <hi>60th</hi> Pages, and ſee whether you have not ſaid the ſame in effect in your anſwering an Ob<g ref="char:EOLhyphen"/>jection, which is as follows:</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label> 
+                  <q rend="margQuotes">But why muſt the Church be included under theſe Terms or Characters, <hi>Of Souls beheaded, that would not worſhip the Beaſt?</hi>
+                  </q>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> Your Anſwer is, <q rend="margQuotes">Becauſe it may more emphatically and ſig<g ref="char:EOLhyphen"/>nificantly hold forth the State they are raiſed from, and raiſed to, <hi>&amp;c.</hi>
+                  </q>
+               </p>
+               <pb n="14" facs="tcp:153532:14"/>
+               <p>Thus you grant the whole Church then is included under theſe Terms, and alſo the Reaſon of it. Then you further tell us, The divers Afflictions they ſuffered were repreſented by the various Characters the Church is ſet forth in this Book; as may be ſeen at large in thoſe Pages.</p>
+               <p>Therefore look into your own Glaſs, and behold the Folly of this Argument.</p>
+               <p>If the Apoſtle judged that Man to be happy that condemns not himſelf in that thing which he alloweth,<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>m. 14.22.</note> what think you of that Man that condemns others in that thing which he allow<g ref="char:EOLhyphen"/>eth himſelf?</p>
+               <p>But before I paſs this Argument, I will open another Glaſs, whereby you and all others may more clearly ſee the Vanity of this Argument.</p>
+               <p>Whereas you queſtion (ſince Martyrs only being here menti<g ref="char:EOLhyphen"/>oned, and beheaded Martyrs too, and only ſuch too that ſuffered under Antichriſt, taking in no other Saints) what will become of all the Saints from <hi>Abel</hi> to this time, that were not Martyrs un<g ref="char:EOLhyphen"/>der Antichriſt; concluding hereupon, that Chriſt will have but a ſmall Kingdom, <hi>viz.</hi> none but Martyrs, and ſuch Martyrs too, (and worſe ſtill) and that all the reſt are hereby excluded from Happineſs and Exemption from ſuch a Curſe, (<hi>viz.</hi> the ſecond Death): Affirming, more expreſly in your <hi>8th</hi> Argument, (upon this Doctrine of the Corporal Reſurrection, in this Text) that Martyrs only ſhall be happy, and all the reſt (<hi>viz.</hi> Saints) ſhall be raiſed to the ſecond Death.</p>
+               <p>Now to remove this Abſurdity, which you have thus drawn upon this Doctrine you ſo much oppoſe, (<hi>viz.</hi> of the Corporal Reſurrection in this Text) I will ſhew you that there ſhall be more than theſe Martyrs ſhare in this Happineſs, <hi>i.e.</hi> of reigning with Chriſt this thouſand Years.</p>
+               <p>Firſt <hi>Negatively.</hi> Let it be well obſerved, the Text doth not ſay, That all Perſons which have not a Part in this firſt Reſurrection, ſhall be hurt of the ſecond Death; neither doth any Text in the whole Book of God affirm ſuch a thing. All that this Text ſaith, is this, <hi>That the reſt of the Dead lived not again until the thouſand Years were fulfilled, and that thoſe are bleſſed which have a part in the firſt Reſurrection.</hi> Nor can there be any good Reaſon ſhewed for
+<pb n="15" facs="tcp:153532:14"/>ſuch an Inference, (though you boldly affirm there may) as I ſhall more fully ſhew anon, when I come to anſwer what you ſay in your ninth Argument. But,</p>
+               <p>Secondly, <hi>Affirmatively.</hi> Take a full view of the Text once more, and I doubt not but you may ſee (unleſs your Eyes be clo<g ref="char:EOLhyphen"/>ſed) that there's more than only Martyrs, <hi>viz.</hi> ſuch Martyrs, <hi>&amp;c.</hi> ſhall have a part in the firſt Reſurrection, and reign with Chriſt this thouſand Years; and that you may the better ſee it, I will read the Text for you:</p>
+               <p>Rev. 20.4, 6. <hi>And I</hi> (John) <hi>ſaw Thrones, and they ſat upon them, and Judgment was given unto them: And I ſaw the Souls of them that were beheaded for the witneſs of Jeſus,</hi> &amp;c. <hi>And they lived and reigned with Chriſt a thouſand Years. — Bleſſed and Holy is he that hath part in the firſt Reſurrection,</hi> &amp;c.</p>
+               <p>Now taking it for granted, that you have fully viewed, and well obſerved this Text, I ask theſe few Queſtions:</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>
+                  </label> 
+                  <q rend="margQuotes">Firſt; Did <hi>John</hi> at this time ſee any more, ſave Martyrs, riſe from the dead, ſitting upon Thrones, judging and reigning with Chriſt?</q>
+               </p>
+               <p>You anſwer (upon this Doctrine);</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer </seg>
+                  </label> St. <hi>John</hi> ſaw no more but Martyrs riſen from the dead, ſitting up<g ref="char:EOLhyphen"/>on Thrones, judging and reigning with Chriſt.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>2</label> 
+                  <q rend="margQuotes">Who then are thoſe which St. <hi>John</hi> tells us firſt, He ſaw ſitting upon Thrones, and to whom Judgment was given?</q>
+               </p>
+               <p>I preſume, upon ſerious Thoughts, you will not ſay theſe were the Martyrs; for the Martyrs are diſtinguiſhed from them by theſe words, <hi>[And I ſaw]:</hi> The common Phraſe uſed for Diſtinction in this Book.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Queſt. </seg>3</label> 
+                  <q rend="margQuotes">Who then? Was it the Father and the Son? If you ſay it was, (as I think you will not) then I ask who gave them two this great Gift, (<hi>viz.</hi> Judgment?) Again, If you ſhall ſay it's meant of Chriſt's Sitting upon the Throne, to whom the Father ſhall give the Government of this World,<note place="margin">
+                        <hi>So uſed</hi> Pſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. 9.7.</note> expreſſed in this word <hi>[Judgment;]</hi> then I ask further, Is Chriſt a Plurality of Per<g ref="char:EOLhyphen"/>ſons?
+<pb n="16" facs="tcp:153532:15"/>for mark, it's ſaid <hi>Thrones,</hi> [or Seats on this Throne,] <hi>And they ſat upon them.</hi> And further; They, with the Martyrs, are diſtinguiſhed from Chriſt in this very place; ver. 4. <hi>And they</hi> [alſo] <hi>lived and reigned with Chriſt.</hi> Again, ver. 6. <hi>Bleſ<g ref="char:EOLhyphen"/>ſed is he</hi> (<hi>viz.</hi> every he, or, all ſuch) <hi>that hath part in the firſt Reſurrection; they ſhall be Prieſts of God and of Chriſt, and ſhall reign with Chriſt.</hi> And I preſume alſo you will not ſay it's meant of Angels;<note place="margin">
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 2.5. <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>. 6.3.</note> for the Lord will not put the World to come into the Government of Angels. We read the Saints ſhall then judg Angels; never read that the Angels ſhall then be made Judges.<note place="margin">
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 1.6. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 5.10. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. 3.21. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 7.22, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </note> Furthermore; Is it not expreſly written, That all the Saints (here I intend by this word <hi>[Saints]</hi> all that di<g ref="char:EOLhyphen"/>ed before, and are found alive in the Faith at Chriſt's ſecond Coming, <hi>i.e.</hi> thoſe that were not beheaded, as well as thoſe that were) ſhall be made Judges and Kings, and ſhall ſit upon Thrones with the King of Kings,<note place="margin">
+                        <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>. 6.2, 3. <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>. 2.26, <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </note> to whom Judgment ſhall be given, and ſhall judg Angels and Men, and reign with Chriſt on Earth?</q>
+               </p>
+               <p>Therefore, although the Martyrs are here particularly men<g ref="char:EOLhyphen"/>tioned for the Eminency of their Services and Sufferings; and becauſe ſo immediately done, for the great Honour of all ſuch, and the preſent Encouragement of all the Lord's Servants in their Tribulations; yet you may clearly ſee, by what hath been ſaid, that all the reſt ſhall be bleſſed with them: and ſo no need for you, or any body elſe, to ask, what ſhall become of all the Saints from <hi>Abel</hi> to this time, that were not Martyrs under Antichriſt. And ſo I paſs to your <hi>3d</hi> Argument.</p>
+               <p>
+                  <q rend="margQuotes">Becauſe this will hold out an Abſurdity of a twofold Reſur<g ref="char:EOLhyphen"/>rection (a thouſand Years diſtant each from other) of Bo<g ref="char:EOLhyphen"/>dies,<note place="margin">
+                        <hi>
+                           <gap reason="illegible" resp="#UOM" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>g.</hi> 3. and <gap reason="illegible" resp="#UOM" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> of the <gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>e Sheet.</note> contrary to <hi>John</hi> 5.28. the State of the Reſurrection being there held forth by Chriſt to be general and univer<g ref="char:EOLhyphen"/>ſal, relating to Good and Bad, and to be at one time; the Hour, the Day, <hi>viz. The Latter-day.</hi> So <hi>John</hi> 6. four times, <hi>ver.</hi> 39, 40, 44, 54. <hi>chap.</hi> 11.24. <hi>Job</hi> 19.25. <hi>In the Twinkling of an Eye, and Sound of the Trumpet,</hi> 1 Cor. 15.51, 52.</q>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> 
+                  <hi>Firſt;</hi> To the firſt Branch of your Argument, <hi>viz.</hi> An Abſur<g ref="char:EOLhyphen"/>dity: Pray what Abſurdity, or why is it abſurd? Methinks you that are ſo full of Reaſons, might have given ſome here? I de<g ref="char:EOLhyphen"/>ny
+<pb n="17" facs="tcp:153532:15"/>that a twofold Reſurrection is an abſurd thing: Muſt your bare Word, without Proof, paſs for an Oracle, when the Holy Scripture ſo oft affirms the contrary; yea, and your ſelf, in the large Sheet, confeſſeth a twofold Reſurrection; and ſo doth your <hi>Second,</hi> in his <hi>10th</hi> Page? And pray tell me what Abſurdity is it for the Saints to be raiſed a thouſand Years before the Wicked, any more than for Chriſt, (who was not only of the ſame Lump with all Mankind, (in reſpect of one of his Natures) but alſo Head of his Church) to riſe a thouſand Years before the reſt?</p>
+               <p>Your <hi>Second</hi> Branch, is, That it is contrary to what is held forth by Chriſt in the Scripture by you mentioned, <hi>viz.</hi> a two<g ref="char:EOLhyphen"/>fold Reſurrection, a thouſand Years diſtant each from other: <q rend="margQuotes">For, (ſay you) the Scriptures ſay, That all the Dead ſhall be raiſed in a Day, yea, in an Hour, nay leſs, in the Twinkling of an Eye.</q>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> How true this is, we will now make trial: And,</p>
+               <p>
+                  <hi>Firſt;</hi> How is this like to be, ſince, as you confeſs, That they ſhall not be raiſed both together; but the Saints firſt,<note place="margin">See in <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 5th <hi>Arg.</hi> 
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> the large Sheet.</note> and the Wicked after them? And your <hi>Second,</hi> in his Treatiſe, <hi>p.</hi> 10. the like; acknowledging alſo, That many things ſhall be done between the Reſurrection of the Saints, and that of the Wicked: As,
+<list>
+                     <item>
+                        <hi>1ſt.</hi> Chriſt's ſending his Angels to gather together the Saints after they are raiſed.</item>
+                     <item>
+                        <hi>2dly.</hi> The Taking them up into the Air.</item>
+                     <item>
+                        <hi>3dly.</hi> The Burning up of the World and its Works.</item>
+                     <item>
+                        <hi>4thly.</hi> Chriſt's Sitting upon the Throne to judg his People; at which time, they muſt give an Account, and receive accordingly; all the Unjuſt continuing in their Graves until this Judgment be over.</item>
+                  </list>
+               </p>
+               <p>Now I appeal to every judicious and impartial Judgment, and to your ſelf in particular, whether, ſince all this muſt be done in this order, one after another, in this Interim, between theſe two Reſurrections, I ſay, whether theſe two can be both in the Twinkling of an Eye? Nay, take it ſhort, as your ſelf have de<g ref="char:EOLhyphen"/>livered it, and then reſolve me.</p>
+               <pb n="18" facs="tcp:153532:16"/>
+               <p>
+                  <hi>Secondly;</hi> Before I paſs, take a view of the Scriptures by you quoted, and ſee whether you have not heedleſly affirmed this thing, <hi>viz.</hi> That the Reſurrection, both of Juſt and Unjuſt, ſhall be both in the Twinkling of an Eye? when, in truth, there's nothing in the Text teſtified to be done in the Twinkling of an Eye, but only the Change of Saints; as any one may ſee that reads it.</p>
+               <p>Whether then this be not abſurd in you to affirm, That this twofold Reſurrection (<hi>viz.</hi> of Juſt and Unjuſt) ſhall be both in the Twinkling of an Eye; when the Scripture ſpeaks of no ſuch thing?</p>
+               <p>
+                  <hi>Thirdly;</hi> You tell us, <q rend="margQuotes">This twofold Reſurrection ſhall be all in one Hour, and therefore cannot be a thouſand Years diſtance each from other.</q>
+               </p>
+               <p>Now if by Hour you mean a natural Hour, conſiſting of ſix<g ref="char:EOLhyphen"/>ty Minutes, then I deny this alſo, and tell you this twofold Reſurrection ſhall not be accompliſhed in ſo little a time: for beſide what's already offer'd againſt your E<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e-twinkling, which might ſeem for an Anſwer in this alſo, I will add, (becauſe I deſign not only your Confutation, but Illumination) That your Argument is fallacious, becauſe 'tis argued from that which is Me<g ref="char:EOLhyphen"/>taphorical, to that which is Proper: For you cannot be ignorant that the word <hi>Hour,</hi> in Scripture, is ſometimes put for a certain Time wherein ſuch a Work is done, ſhorter or longer, as it is. For inſtance; The time of great and univerſal Tribulation that ſhall come upon all the World, foretold by our Lord, is called an Hour of Temptation;<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ev. 3.10. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſal. 30.5. Cor. 4.17.</note> yea, all the time of our Troubles here, not only called a Day, or a Night, and an Hour, but alſo that which is far leſs, even a Moment; and all the time of the New Teſta<g ref="char:EOLhyphen"/>ment's Miniſtration, an Hour: and ſince you had ſuch an Hour ſpoke of at that very time,<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oh. 4.21, 23</note> even in the ſame breath, but two Ver<g ref="char:EOLhyphen"/>ſes off,<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oh. 5.25.</note> 
+                  <hi>viz. 25th,</hi> 'tis wonderful you could no better diſcern what kind of Hour this was. Read that <hi>25th</hi> Verſe, and conſider.</p>
+               <p>
+                  <hi>Fourthly;</hi> You tell us further, <q rend="margQuotes">This twofold Reſurrection will be all in a Day:</q> 
+                  <hi>Ergo,</hi> Not a thouſand Years diſtant.</p>
+               <p>This is like your Hour, full as fallacious; and therefore the Queſtion is, How long your Day is? whether a Day-Proper, or a
+<pb n="19" facs="tcp:153532:16"/>Day-Metaphorical; an ordinary Natural-Day, or a Day extra<g ref="char:EOLhyphen"/>ordinary: for you cannot be ignorant, that the Holy Scripture frequently ſpeaks of both. Touching a Day-Metaphorical:<note place="margin">Heb. 4.7. 2 Cor. 6.</note> You have it ſometimes for the Time of Grace and Salvation, ſome<g ref="char:EOLhyphen"/>times for a Man's Life, ſometimes for the time of Chriſt's be<g ref="char:EOLhyphen"/>ing here in the Fleſh,<note place="margin">Luke 19.4. Joh. 9.4. Joh. 8.5.</note> ſometimes for the time of Judgment up<g ref="char:EOLhyphen"/>on the Wicked here; and frequently for the time of Chriſt's, and the Saints Reign on Earth; called, <hi>The Day of Chriſt; and the Son of Man's Day; the laſt Day; the great Day;</hi>
+                  <note place="margin">Job 14.6<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>and</hi> 18.2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Jer. 12.3<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Ezek. 30.2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Phil. 1.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Luke 17.2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Joh. 11.2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Jude 6. Acts 2.20 Zech. 14.7, Pſal. 49.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 2 Pet. 1.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Mal. 4.2. Zec. 14 3, 4, 5, 8, 9, 20<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 21.</note> 
+                  <hi>that great and notable Day of the Lord: That Day; it ſhall be one Day, which ſhall be known</hi> (or acknowledged and kept to him) <hi>to the Lord.</hi>
+               </p>
+               <p>Deſcribed, firſt, by its parts; <hi>Dawning of the Day, Sun-Riſing, Morning,</hi> &amp;c. <hi>not Day nor Night: — But in Summer; and in Win<g ref="char:EOLhyphen"/>ter ſhall it be: And it ſhall be when the Lord my God ſhall come (to Mount</hi> Zion:) <hi>And all the Saints with</hi> Thee. <hi>Then ſhall the Lord go</hi> forth; <hi>and fight againſt thoſe Nations, as when he fought in the Day of Battel,</hi> (<hi>i. e.</hi> with <hi>Amaleck</hi> and <hi>Og,</hi> when <hi>Iſrael</hi> came near to <hi>Canaan.</hi>) <hi>And his Feet ſhall ſtand in that Day upon the Mount of</hi> Olives: <hi>And it ſhall be when living Waters ſhall go out from</hi> Jeruſa<g ref="char:EOLhyphen"/>lem. <hi>And the Lord ſhall be King over all the Earth: In that Day ſhall there be one Lord, and his Name one; and in that Day there ſhall be upon the Bells of the Horſes, Holineſs to the Lord; and the Pots in the Lord's Houſe ſhall be like the Bowls before the Altar; and every Pot in</hi> Jeruſalem <hi>and</hi> Judah <hi>ſhall be, Holineſs unto the Lord of Hoſts: And in</hi> that Day <hi>there ſhall be no more the</hi> Canaanite <hi>in the Houſe of the Lord of Hoſts.</hi>
+               </p>
+               <p>Secondly; Deſcribed by its Works at large, <hi>viz.</hi> The Lord's Coming; The Saints Reſurrection and Change; then caught up to meet the Lord in the Air; the Jews Converſion; the Con<g ref="char:EOLhyphen"/>ſternation of the Wicked; and the Man of Sin, and his Com<g ref="char:EOLhyphen"/>pany's Deſtruction; Calling his Saints to Judgment; Subject<g ref="char:EOLhyphen"/>ing the Nations to the Jews, Reigning over the Nations, <hi>&amp;c.</hi> and at the end, deſtroy, and then raiſe and judg the reſt, and ſo deliver up the Kingdom to the Father, that he may be all in all.</p>
+               <p>Moreover; You may clearly ſee that 'tis agreeable to Scripture, (notwithſtanding you have affirmed it to be contrary) <hi>viz.</hi> a two<g ref="char:EOLhyphen"/>fold Reſurrection. I will inſtance only in two, 1 <hi>Cor.</hi> 15.23, 24. 1 <hi>Theſſ.</hi> 4.16.</p>
+               <pb n="20" facs="tcp:153532:17"/>
+               <p>Thus much for anſwer to the Day. As for what you infer from the laſt Trump Sounding, I have anſwered before to your <hi>4th</hi> Argument of the firſt Five, therefore need ſay nothing more to it now: Wherefore, from what hath been ſaid in anſwer to your <hi>3d</hi> Argument, I hope you may ſee the Invalidity of it; and that notwithſtanding what you have yet offered, this Doctrine ſtands firm and unſhaken, <hi>viz.</hi> 
+                  <q rend="margQuotes">That this firſt Reſurrection, <hi>Rev.</hi> 20.4, 5, 6. is, by the Spirit of God, meant the Corporal Reſur<g ref="char:EOLhyphen"/>rection of the Saints:</q> and not your vain Conception of a Myſti<g ref="char:EOLhyphen"/>cal or Civil Reſurrection, as you have defined it.</p>
+               <p>I proceed now to your next Argument.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>4</label> 
+                  <q rend="margQuotes">Becauſe this Opinion (<hi>viz.</hi> of a Corporal Reſurrection) holds out this to be the firſt Bodily Reſurrection, contrary to what the Scripture ſpeaks of; nine going before it: As <hi>1ſt,</hi> The Wi<g ref="char:EOLhyphen"/>dow of <hi>Sarepta</hi>'s Son, 1 <hi>Kings</hi> 17.22. <hi>2dly,</hi> The Son of the <hi>Shunamite,</hi> 2 <hi>Kings</hi> 4.35. <hi>3dly,</hi> The Man that was raiſed by the Touch of the Prophet's Coffin. <hi>4thly,</hi> The Widow of <hi>Naim</hi>'s Son, <hi>Luke</hi> 7.15. <hi>6thly,</hi> Lazarus, <hi>John</hi> 11.44. <hi>7thly,</hi> Thoſe many that came out of their Graves, accompanying Chriſt at his Reſurrection. <hi>8thly,</hi> Tabitha, <hi>Acts</hi> 9.41. <hi>9thly,</hi> Eutichus, <hi>Acts</hi> 20. By which ſeveral Inſtances, it muſt appear, that ei<g ref="char:EOLhyphen"/>ther this is not a Corporal Reſurrection ſpoken of, or theſe nine mentioned were not ſo; for this cannot be ſaid, in truth, to be the firſt Corporal Reſurrection, when nine went before it, but the tenth Reſurrection rather.</q>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> Certainly if this Man was not tranſported beyond meaſure with a Conceit of his extraordinary Skill in Diſtinctions above all o<g ref="char:EOLhyphen"/>ther Men, we ſhould not have had him ſporting himſelf with ſuch ſuperfluous Diſtinctions as theſe; and ſo contradictory to himſelf, and to all other Men, yea and to the Truth alſo, as to tell us of nine Reſurrections before the Reſurrection of the Saints at the laſt Day. Now that this is ſuperfluous, conſider, that if the rai<g ref="char:EOLhyphen"/>ſing of every Perſon muſt be called a diſtinct Reſurrection, we make a thouſand after that rate; yea, himſelf might have made up his nine, not only ten, but many more: for the time of Chriſt's Riſing was diſtinct from the Riſing of thoſe which he ſaith ac<g ref="char:EOLhyphen"/>companied
+<pb n="21" facs="tcp:153532:17"/>Chriſt at his Reſurrection. Notwithſtanding what this Author affirms, ſee the Text, <hi>And many Bodies of Saints which ſlept,</hi>
+                  <note place="margin">Matth. 27.52, 53.</note> 
+                  <hi>aroſe, and came out of their Graves after his Reſurrection. 2d.</hi> Both ſuperfluous and contradictory to himſelf: For in his <hi>5th</hi> Reaſon of his large Sheet, he doth not only call the Reſurrection of the Juſt and Unjuſt at the laſt Day, Reſurrections in the Plural; but the Riſing of the Saints he calls firſt; and ſo doth his <hi>Second,</hi> p. 10. That it's contrary to other Men, conſider, beſides what I have minded of his <hi>Second,</hi> in his Treatiſe, ſee the Aſſemblies Annota<g ref="char:EOLhyphen"/>tions on 1 <hi>Cor.</hi> 15.20. (which he ſo much reſpects in other Caſes.)</p>
+               <p>Touching eight of his nine; theſe are their words, <q rend="margQuotes">He was the firſt that ever roſe to a bleſſed and immortal Life; other Dead was raiſed for a time to Life, but afterwards died again: None before Chriſt ſo roſe from the dead that he died no more, nor had Death any more Power over him.</q>
+               </p>
+               <p>Had this Author firſt conſidered, that although the Scripture oft-times makes mention of the Reſurrection of the Dead in ſhort, yet not as ſeparate from that Glory Saints ſhall then have:<note place="margin">See <hi>1 Cor. 15.</hi> with o<g ref="char:EOLhyphen"/>ther places.</note> For what will a Reſurrection be without that?</p>
+               <p>Further; If theſe nine muſt bear the Appellation of Reſurrecti<g ref="char:EOLhyphen"/>ons, in equal Rank, or as the other, <hi>i. e.</hi> Chriſt and the Saints at the laſt Day; then how could that be true that's ſaid of Chriſt and them? <hi>Every Man in his own Order, Chriſt the Firſt-fruits,</hi>
+                  <note place="margin">1 Cor. 15.23. Col. 1.18.</note> 
+                  <hi>af<g ref="char:EOLhyphen"/>terwards they that are Chriſt's, at his coming: He is the Firſt-born from the dead,</hi> (in which thing, as well as others, he is ſaid to have the Pre-eminence): <hi>Firſt-begotten of the dead:</hi>
+                  <note place="margin">1 Theſſ. 4.16</note> 
+                  <hi>And the Dead in Chriſt ſhall riſe firſt.</hi> Therefore how ſhould Chriſt be the Firſt-fruits, and have the Pre-eminence, if theſe muſt be ſaid to be before him? <hi>&amp;c. Ergo,</hi> This may ſtill be ſaid, and that in truth, to be the firſt Reſurrection, notwithſtanding what's ſaid by this Author from his ſeveral Inſtances to the contrary.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>5</label> 
+                  <q rend="margQuotes">The Bodily Reſurrection cannot be here meant, (<hi>i. e.</hi> in this <hi>4th</hi> Verſe) becauſe that is not to be till a thouſand Years after this, as in this Chapter, when all the Elements muſt give up their Dead, <hi>Rev.</hi> 20.12, 13.</q>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> This may yet be, notwithſtanding what you urge; for theſe two Verſes ſpeak of what ſhall be after the thouſand Years,
+<pb n="22" facs="tcp:153532:18"/>
+                  <hi>viz.</hi> of the reſt of the Dead that were not raiſed at the beginning of the thouſand Years, expreſſed in theſe words, <hi>The reſt of the Dead lived not again until the thouſand Years were finiſhed.</hi> This lat<g ref="char:EOLhyphen"/>ter therefore is the ſecond Reſurrection. The former, <hi>ver.</hi> 45. is the firſt Reſurrection: both which are here evidently diſtinguiſhed alſo in 1 <hi>Cor.</hi> 15.23, 24, 25, 26. that he that runs may read.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>6</label>
+                  <q rend="margQuotes">This cannot be the Corporal Reſurrection of the Saints; for that cannot be till Chriſt's Perſonal Coming and Appearing, and Day of Judgment, 1 <hi>Theſſ.</hi> 4.14. 1 <hi>Cor.</hi> 15.23. 2 <hi>Tim.</hi> 4.1. And (as before) Chriſt's Perſonal Coming is proved by many Arguments not to be till after the thouſand Years; and 'tis as clear, that the Judgment-Day is not till after the thouſand Years, and Deſtruction of the <hi>Gog-Magog</hi> Army.</q>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> This Argument depends upon the former; they being diſproved, this falls with them: Yet take this further Anſwer.</p>
+               <p>Your Reaſon, to prove it cannot be the Corporal Reſurrection of the Saints, is, <q rend="margQuotes">Becauſe the Corporal Reſurrection of the Saints can<g ref="char:EOLhyphen"/>not be till Chriſt's Perſonal Coming and Appearing, and Day of Judgment.</q> Pray where find you theſe three Diſtinctions, (ac<g ref="char:EOLhyphen"/>cording to your Notion) <hi>viz.</hi> Coming, Appearing, and Day of Judgment, in all theſe three Texts by you cited? True it is, here are three words, (but not your three) <hi>viz. Coming, Appearing,</hi> and <hi>Kingdom.</hi> But what ground have you to diſtinguiſh between his Coming and Appearing? This by the way. Further; Pray who ever affirmed that the Saints ſhould be raiſed before Chriſt's Perſonal Coming? And what you further add, That 'tis as clear that the Judgment-Day is not till after the thouſand Years;</p>
+               <p>I anſwer; If by the word <hi>[not]</hi> you mean, not at all, then I de<g ref="char:EOLhyphen"/>ny it; and tell you, That the Judgment-Day ſhall begin at the be<g ref="char:EOLhyphen"/>ginning of the thouſand Years. See for this in the Anſwer to the <hi>3d</hi> Argument. Further; Pray mind the Text you have now cited, <hi>viz.</hi> 2 Tim. 4.1. <hi>Who ſhall judg the Quick and Dead at his Appearing and Kingdom.</hi> And 'tis in this place ſaid, <hi>Judgment was given to the Saints that ſat upon theſe Thrones;</hi>
+                  <note place="margin">Rev. 20.4.</note> which was at the beginning of the thouſand Years. And in 1 <hi>Cor.</hi> 15. as the Reſurrection of the Juſt and Unjuſt, ſo conſequently the Judgment: For 'tis evident he muſt reign till he hath put all his Enemies under his Feet; which cannot be till they are raiſed, which will not be till the end of his Kingdom, as <hi>ver.</hi> 24, 25, 26, 27, 28.</p>
+               <pb n="23" facs="tcp:153532:18"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>7</label> 
+                  <q rend="margQuotes">This cannot be the Corporal Reſurrection of the Saints, becauſe it inverts Chriſt's Order, which is to be at the Sounding of the laſt Trumpet; the time of the living Saints change; the time that is expreſſed to be the laſt Day, which is the Judgment-Day, but this a thouſand Years before all.</q>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> This Argument differs little or nothing from the laſt, except only a Change of words, and ſo ſerves only to make up the number; as any one may ſee that minds them. But now I deny ſuch an Opinion inverts Chriſt's Order, though I grant all your Particulars urged to demonſtrate it: for all theſe are to be at the beginning of the thou<g ref="char:EOLhyphen"/>ſand Years, <hi>viz.</hi> the Sounding of the laſt Trumpet, living Saints changed, laſt Day, Chriſt's Coming, and Judgment-Day; as is clear, <hi>Rev.</hi> 11.15, to the end.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>8</label> 
+                  <q rend="margQuotes">Becauſe, if Corporal, and to be underſtood of Martyrs only, then all the Dead at the laſt Day ſhall be raiſed to the ſecond Death, contrary to <hi>Job.</hi> 5.24. &amp; 6.39, 40, 44, 45. <hi>Dan.</hi> 12.2. and they only Martyrs, <hi>Prieſts to God;</hi> contrary to 1 <hi>Pet.</hi> 2.5, 9. <hi>Rev.</hi> 1.6.</q>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> This is <hi>Idem per Idem</hi> with your ſecond Argument, and ſo only ſerves ſtill to make up the number; and therefore I refer you and the Reader to the Anſwer made to that Argument.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Arg. </seg>9</label> 
+                  <q rend="margQuotes">Becauſe if this be underſtood to be the Reſurrection of all the Saints, who, in that mortal and glorified State, are to live and reign the thouſand Years in and over the World; It neceſſarily in<g ref="char:EOLhyphen"/>fers theſe ſtrange Abſurdities:</q>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Abſurd. </seg>1</label> 
+                  <q rend="margQuotes">Firſt; That glorified and unglorified, mortal and immortal Bodies, muſt converſe together, contrary to expreſs Scripture, 1 <hi>Tim.</hi> 6.16, <hi>&amp;c.</hi>
+                  </q>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> To all which, take this brief Anſwer. And firſt; I deny it to be any Abſurdity for glorified and unglorified, mortal and immortal Bodies to converſe together: For hath it not been known, that of<g ref="char:EOLhyphen"/>ten Angels and Men have converſed together; yea, the very Inſtan<g ref="char:EOLhyphen"/>ces you give, <hi>i. e.</hi> of <hi>Moſes,</hi> and the Diſciples of Chriſt at his Tranſ<g ref="char:EOLhyphen"/>figuration, and <hi>Paul</hi> in the Viſion; and I may <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d, <hi>Iſrael, Deut.</hi> 5.24. and <hi>Moſes, Aaron,</hi> and the 70 Elders, <hi>Exod.</hi> 24.10, 11. and the Diſ<g ref="char:EOLhyphen"/>ciples of Chriſt with him after his Reſurrection 40 Days. All which do abundantly ſhew, that mortal and immortal ones have converſed
+<pb n="24" facs="tcp:153532:19"/>without any Conſumption upon Mortals: and if ſo, why ſhall it be thought abſurd for Men, when immortalized, or changed, to con<g ref="char:EOLhyphen"/>verſe with Men not changed?</p>
+               <p>What you ſay further, from 1 <hi>Tim.</hi> 6.16. and <hi>Exod.</hi> 33.20. touch<g ref="char:EOLhyphen"/>ing the Impoſſibility of any Mortal approaching into the Light which Chriſt dwells in, and to ſee God, <hi>&amp;c.</hi> Take notice you now diſpute beyond the due bounds of the Queſtion: for the Queſtion is not, whether Mortals may converſe with God, and that now; but whe<g ref="char:EOLhyphen"/>ther mortal and immortal Men can converſe together? More might be ſaid to this, but I paſs it.</p>
+               <p>What you ſeem to hint at, <hi>i. e.</hi> of the glorified Saints converſing with the Wicked, I neither well know what you mean, nor of any that affirm ſuch a thing; therefore ſhall paſs it by, and proceed to your ſecond Abſurdity.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Abſurd. </seg>2</label> 
+                  <q rend="margQuotes">It holds out, That ſome glorified and unglorified Saints ſhall at this time converſe together, <hi>viz.</hi> thoſe that are raiſed from the dead, with thoſe that are then upon the Earth; when the Scrip<g ref="char:EOLhyphen"/>ture tells us, 1 <hi>Cor.</hi> 15.51, 52. that at the ſame inſtant that the dead Saints are raiſed, the living Saints are changed, <hi>&amp;c.</hi>
+                  </q>
+               </p>
+               <p>
+                  <q rend="margQuotes">Becauſe when Chriſt comes, he muſt have all the Saints come with him who are raiſed, changed, and glorified; taken up into the Air to meet him, and in that State are ever with him, not one Saint be<g ref="char:EOLhyphen"/>ing to be left behind.</q>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> What doth this make for you? Could you ever imagine that any were ſo ignorant as to intend by ſuch a Converſing, that thoſe Saints that ſhall remain alive till Chriſt comes, ſhould continue in a mortal State during the thouſand Years?</p>
+               <p>But you further tell us, <q rend="margQuotes">That when Chriſt comes, he muſt have all the Saints come with him, who are raiſed, <hi>&amp;c.</hi>
+                  </q>
+               </p>
+               <p>You did very well to put in theſe words, (<hi>who are raiſed,</hi> &amp;c.) for who think you will oppoſe you here? I ſay, again, certainly none will be ſo weak as to affirm, that any of theſe ſhall be left behind: But ſhall there be no other Men left behind? is now the Queſtion: for ſatisfaction, read <hi>Matth.</hi> 24.40, 41. <hi>Luke</hi> 17.34, 35, 36. <hi>Zech.</hi> 14.16.</p>
+               <p>Again; Though all thoſe that died, and ſhall be found in the Faith when Chriſt comes, ſhall be raiſed and changed, yet this follows not that there ſhall be none converted at and after his Coming, who
+<pb n="25" facs="tcp:153532:19"/>will not then, <hi>viz.</hi> at that inſtant be changed, with whom thoſe glorified Ones many converſe.</p>
+               <p>But you come after with this Reaſon, which you think cuts off all, <hi>viz.</hi> 
+                  <q rend="margQuotes">Becauſe Chriſt ſhall come in flaming Fire againſt them that know him not, nor obey his Goſpel; the Day of Grace being then over, and none to be converted after that.</q>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> Firſt take notice, that although he ſhall come in flaming Fire, <hi>&amp;c.</hi> yet the Holy Scripture no where tells you, That all Men that are upon the Earth (the glorified Saints here excepted) ſhall be burnt up: Neither doth it any where tell you, that the Day of Grace ſhall be ſo over, as that there ſhall be no Day of Grace to any after that time; nor that none ſhall be converted at, or after the coming of Chriſt; neither is any thing like it in all the Book of God, but the contrary. And whereas you hint at the Parable of the Virgins, <hi>Matth.</hi> 25. as a Ground for this your Conception; pray conſider, theſe were not only Perſons that had the Day of Grace before al<g ref="char:EOLhyphen"/>lowed them, to whom the Goſpel was preached, but were Members of the Church of Chriſt; and therefore no marvel that it will be too late for ſuch to get Oil in the Veſſel when Chriſt comes: But what's this to the purpoſe, reſpecting others not in that Capacity, but under other Circumſtances? But now to your <hi>3d</hi> Abſurdity.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Abſ </seg>
+                  </label> 
+                  <q rend="margQuotes">That whereas Chriſt ſaith, <hi>The laſt Enemy is Death:</hi> Here the raiſed Saints, after Death, are to meet with another Enemy, <hi>viz.</hi> the <hi>Gog-Magog</hi> Army.</q>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> What though the Apoſtle <hi>Paul</hi> (which I ſuppoſe you mean) tells us, <hi>The laſt Enemy is Death,</hi> 1 <hi>Cor.</hi> 15. yet he doth not there tell you, this Enemy of Chriſt ſhall be deſtroyed at the very inſtant when the Saints (that died before Chriſt's Coming) ſhall be raiſed: Neither is it any where elſe ſo written, but the contrary: Read the <hi>24th</hi> and <hi>25th</hi> Verſes; from whence it is evident, that this Enemy, <hi>Death,</hi> ſhall not be deſtroyed till the end of Chriſt's Reign: And 'tis as plain, <hi>Rev.</hi> 20. that the <hi>Gog-Magog</hi> Army ſhall make that Attempt, and be deſtroyed immediately before the laſt Reſurrection, or De<g ref="char:EOLhyphen"/>ſtruction of Death. True it is, the Saints, before-mentioned, ſhall (through Chriſt) get the Victory over Death before: ſo did our Lord at his Reſurrection. But I preſume you will not ſay, he did then deſtroy Death; for Victory and Deſtruction are two things.
+<pb n="26" facs="tcp:153532:20"/>Thus I have ſhewed that this Opinion you contend againſt, infers no ſuch Abſurdities. I come now to your <hi>10th</hi> Argument.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="10"/> 
+                  <q rend="margQuotes">This cannot be the Corporal Reſurrection, becauſe it is ſaid expreſly, That during this thouſand Years, <hi>&amp;c.</hi> the Saints ſhall build, plant, marry, and give in Marriage, enjoy the Works of their Hands, be liable to Death, <hi>&amp;c.</hi> Which is utterly inconſiſtent with the Reſurrection-State, <hi>Luke</hi> 20.34, 35.</q>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> Here you reaſon fallaciouſly; for you cannot but know the word <hi>[Saints]</hi> is an ambiguous word, and ought not to be diſputed from, unleſs explained: for though our Lord tells us, the Children of the Reſurrection ſhall not marry, (<hi>viz.</hi> when raiſed) yet he no where tells us, that Saints ſhall not marry in the thouſand Years, <hi>viz.</hi> fuch as are in a mortal State. Thus this Argument falls to the ground like its Fellows.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="11"/> 
+                  <q rend="margQuotes">Therefore, laſtly, It will follow, that if it be neither the Cor<g ref="char:EOLhyphen"/>poral, Spiritual, nor Eternal Life, that is here meant, to the which the Saints are raiſed, then muſt it be the Myſtical or Civil Life, <hi>&amp;c.</hi>
+                  </q>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> This laſt is built upon all the reſt, eſpecially as it reſpects the Corporal Reſurrection: To which, there needs no other Anſwer but this, <hi>viz.</hi> If there be no weight in them, then this muſt needs be too light alſo: and that they are ſo, let the Arguments and Anſwers be compared, and I leave it to every unbiaſſed and impartial Reader to judg.</p>
+               <p>As for thoſe five Arguments in your large Sheet, or any elſewhere in the Book, they are either the very ſame with ſome of theſe ſix<g ref="char:EOLhyphen"/>teen that I have anſwered, or elſe comprehended in them; and therefore I ſuppoſe need no particular Anſwer.</p>
+               <p>I ſhall therefore proceed to the ſecond Author, to anſwer his Ar<g ref="char:EOLhyphen"/>guments, or Demonſtrations (as he calls them) which are in number ſix.</p>
+            </div>
+            <div type="part">
+               <pb n="27" facs="tcp:153532:20"/>
+               <head>A Brief <hi>ANSWER</hi> to Six Demonſtrations (as the Author calls them) laid down by <hi>T. M.</hi> in his Treatiſe of <hi>The New Heavens and New Earth,</hi> pag. <hi>8.</hi> to e<g ref="char:EOLhyphen"/>vince this for a Truth, That the thouſand Years Reign of the Saints with Chriſt, will be before, and (ſo) without his Perſonal Preſence on Earth. Or before the Se<g ref="char:EOLhyphen"/>cond Coming of Chriſt, as <hi>Title-page.</hi>
+               </head>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Demonſt. </seg>
+                  </label> 
+                  <q rend="margQuotes">THE thouſand Years is ſet forth in Scripture (and ſo ge<g ref="char:EOLhyphen"/>nerally underſtood) to be a time of Peace, Plenty, Li<g ref="char:EOLhyphen"/>berty, and Rejoicing of the whole Earth: But when Chriſt comes in Perſon, it produces an univerſal De<g ref="char:EOLhyphen"/>ſtruction and Aſtoniſhment to the World; <hi>Rev.</hi> 6.15. <hi>Every Bond<g ref="char:EOLhyphen"/>man and every Free-man, crying to the Rocks,</hi> &amp;c. ſo <hi>Rev.</hi> 1.7. <hi>Matth.</hi> 24.30.</q>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> This Demonſtration is fallacious, in that it unites where it ſhould divide; and is true in one ſenſe, and falſe in another. As to your firſt Propoſition of this Demonſtration: If by <hi>time of Peace,</hi> &amp;c. you mean only, and altogether without any War or Deſtruction, (as that's your Meaning, or elſe you give away the Cauſe:) And by the <hi>whole Earth,</hi> you intend every Man upon the face of the Earth, all the time of the thouſand Years: then I deny this Propoſition, and tell you, That the Scripture no where ſets out the thouſand Years to be ſuch a Time: neither is it generally ſo underſtood, (as you affirm;) nay, ſo far from being generally ſo underſtood, that I know of none
+<pb n="28" facs="tcp:153532:21"/>at all that underſtand it ſo. Doth not your ſelf hold that there ſhall be War in the thouſand Years? and therefore you frequently call the firſt part of that time, <hi>The ſmiting part;</hi> as may be ſeen in the firſt Author's large Sheet, and frequently in his Book. But now to your ſecond Propoſition of this Demonſtration: If by <hi>[univerſal Deſtruction and Aſtoniſhment to the whole World]</hi> you mean every Perſon in the World, both great and ſmall, without Excep<g ref="char:EOLhyphen"/>tion, (as that is it you muſt intend, or elſe you ſay nothing) then I deny this Propoſition alſo; and tell you, Chriſt's Perſonal Coming will have no ſuch Product.</p>
+               <p>Your Scriptures produced for this, are three, <hi>viz. Rev.</hi> 6.15. and 1.7. <hi>Matth.</hi> 24.30. In two of theſe there is not a word of De<g ref="char:EOLhyphen"/>ſtruction: In the other it's only wiſhed or called for. But admit this, that every one of theſe ſhall be deſtroyed, mentioned in this laſt Text; yet doth it not follow, that every Perſon both great and ſmall, upon the face of the Earth at that time, ſhall be deſtroyed. For it's well known this phraſe, <hi>every Man,</hi> in Scripture, is oft<g ref="char:EOLhyphen"/>times to be underſtood reſpectively, without reference to that ſort of Men the Diſcourſe concerns, and not every Man in the World, as 1 <hi>Cor.</hi> 12.7. and many more; and ſo here 'tis as evident; for at the opening of the ſixth Seal, when he ſees theſe run to the Rocks,<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 7.3.</note> 
+                  <hi>&amp;c.</hi> there's a 144000 of the Tribes of <hi>Iſrael</hi> upon the Earth, which are not of this Number that run to the Rocks, and wiſh for Deſtruction; beſides, many more that might be named, which ſhall not periſh immediately at the Appearing of Chriſt: <hi>Ergo,</hi> Your Demonſtration is become no Demonſtration.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Demonſt. </seg>2</label> 
+                  <q rend="margQuotes">When Chriſt comes, all the dead Saints are raiſed, and the Living changed, and <hi>all</hi> (together) <hi>caught up to meet the Lord in the Air, and ſo to be for ever with the Lord,</hi> 1 Theſſ. 4.17, 18. So that from that time, they could no more converſe with the un<g ref="char:EOLhyphen"/>converted of this World, as the thouſand Years requires: See <hi>Luke</hi> 20.35, 36.</q>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> If by theſe words, <hi>[Caught up into the Air, and ever with the Lord]</hi> you intend theſe ſhall never come down out of the Air a<g ref="char:EOLhyphen"/>gain, then you ſay ſomething, (as to theſe): But pray who told you that? not this Text, nor any in the whole Bible.</p>
+               <p n="2">
+                  <hi>2dly;</hi> What you mean by <hi>[Converſing with the <g ref="char:V">Ʋ</g>nconverted]</hi> I do not well underſtand; and therefore when you have told me, I ſhall give you a further Anſwer.</p>
+               <pb n="29" facs="tcp:153532:21"/>
+               <p n="3">
+                  <hi>3dly;</hi> What if theſe ſhould not ſo converſe with the Unconver<g ref="char:EOLhyphen"/>ted, (as you mean); Shall there be no other Saints then to do it? Pray mark, the Text ſpeaks only of ſuch as were converted before Chriſt's Second Coming; and not of thoſe that ſhall be converted when he comes. See more in my Anſwer to the <hi>9th</hi> Argument of the firſt Author, in my <hi>24th</hi> and <hi>25th</hi> Pages.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Demonſt. </seg>
+                  </label> 
+                  <q rend="margQuotes">When Chriſt comes, he comes <hi>in flaming Fire, taking Vengeance on them that know not God,</hi> &amp;c. 2 <hi>Theſſ.</hi> 4.7, 8. <hi>Jude</hi> 14, 15. and then alſo the World, <hi>and the Works that are therein, ſhall be burnt up,</hi> 2 Pet. 3.10. Now all theſe Perſons, and things being de<g ref="char:EOLhyphen"/>ſtroyed at that Day; if this were at the beginning of the Thou<g ref="char:EOLhyphen"/>ſand Years, where was the Reign (for a thouſand Years after) of the Saints over the World in converſe with the Unregenerate? Therefore Chriſt's Coming is after the thouſand Years.</q>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> I anſwer; And firſt by way of Conceſſion;taking your firſt Pro<g ref="char:EOLhyphen"/>poſition to be true, according to your three Texts. I reſolve your Query as to the Perſons, thus; That notwithſtanding theſe Per<g ref="char:EOLhyphen"/>ſons, ſpoken of in theſe Texts, ſhould be deſtroyed at the begin<g ref="char:EOLhyphen"/>ning of the thouſand Years, yet there ſhall many more remain un<g ref="char:EOLhyphen"/>deſtroyed, over which theſe Saints ſhall reign: As,</p>
+               <p n="1">
+                  <hi>1ſt,</hi> Though one of theſe Texts tell us, that he will take Ven<g ref="char:EOLhyphen"/>geance in flaming Fire on them that know not God, and obey not the Goſpel, <hi>&amp;c.</hi> yet it follows not from hence, that he will then de<g ref="char:EOLhyphen"/>ſtroy them that do know the Lord, and turn to him. Nor,</p>
+               <p n="2">
+                  <hi>2dly,</hi> Thoſe that are at that time incapable to know him; (for Incapacity is no Sin, nor Cauſe of Vengeance.) Nor,</p>
+               <p n="3">
+                  <hi>3dly,</hi> Thoſe that have not heard of his Fame, or had the Goſpel preached to them: for pray mark the Texts, and you may clearly ſee they ſpeak of ſuch Perſons which had the Goſpel preached to them, and were diſobedient to it, and perſecuted them alſo that did obey the Goſpel.</p>
+               <p>Secondly; As to the Deſtruction of things, which you ſay will then be; pray remember your ſelf what you ſaid of it in your <hi>5th</hi> Page, <hi>viz.</hi> 
+                  <q rend="margQuotes">That none of theſe [<hi>i. e.</hi> Shaking, Melting, Diſſolv<g ref="char:EOLhyphen"/>ing, Burning up, Folding up and Changing] expreſs an Annihi<g ref="char:EOLhyphen"/>lation, but deſtroying the former Surface, and the Works of Men on Earth.</q>
+               </p>
+               <p>Therefore you have no cauſe to ſay, Where ſhall they reign? <hi>&amp;c.</hi>
+               </p>
+               <pb n="30" facs="tcp:153532:22"/>
+               <p>But Thirdly; What Cauſe had you to make this Suppoſition, [if this were at the beginning of the thouſand Years?] Certainly no ground from theſe Texts, nor any other; and therefore you do by this ſubtilly deceive your Readers.<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>et. 3.10.</note> Pray mind once more the Text, <hi>But the Day of the Lord will come as a Thief in the Night,</hi> in the which <hi>the Heavens ſhall paſs away:</hi> Not in the beginning of which.</p>
+               <p>So that your Concluſion [<hi>viz.</hi> That Chriſt's Coming is after the thouſand Years] falls to the ground. See more in my Anſwer to the firſt Author's ſecond Argument in my <hi>4th</hi> Page.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Demonſt. </seg>4</label> 
+                  <q rend="margQuotes">Upon Chriſt's Coming and Raiſing the Saints, <hi>&amp;c.</hi> Then fol<g ref="char:EOLhyphen"/>lows the Day of Judgment, 2 <hi>Tim.</hi> 4.1. which is clearly ſet down (in the Order of things) to follow the thouſand Years, <hi>Rev.</hi> 20.11, to the end. See <hi>p.</hi> 9, 10. So that Chriſt's Coming (to Judg<g ref="char:EOLhyphen"/>ment) cannot be before, but after the thouſand Years.</q>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> Your firſt Propoſition I grant, <hi>viz.</hi> That the Day of Judgment ſhall follow Chriſt's Coming, and the Saints Reſurrection, <hi>&amp;c.</hi> But what you aſſert in the ſecond place, I deny; and intreat you, and every unbiaſſed Man, to conſider; Firſt, Whether there be any thing like it in this Text;<note place="margin">
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ev. 20.</note> nay, it's ſo far from it, that the very contrary is found evident therein. Firſt ſee 2 <hi>Tim.</hi> 4.1. <hi>Who ſhall judg the Quick and the Dead at his Appearing, and his Kingdom:</hi> and <hi>Rev.</hi> 20.4, 5, 6, 7. gives us an Account of the Saints Reſur<g ref="char:EOLhyphen"/>rection, and their reigning with Chriſt a thouſand Years, before this, in the <hi>11th</hi> Verſe, ſhall be accompliſhed: And you confeſs herein, and in your <hi>10th</hi> Page, That upon the firſt Reſurrection, <hi>viz.</hi> of the Juſt, Chriſt will ſit and judg his People. So that 'tis plain the Judgment-Day ſhall begin, as you confeſs, when Chriſt comes, and hath raiſed his Saints, which (as I have already ſhewed) will be at the beginning of the thouſand Years; and therefore Chriſt's Coming in Perſon will be before, and not after the thou<g ref="char:EOLhyphen"/>ſand Years. See more in my Anſwer to the firſt Author's firſt Argument, in my <hi>2d</hi> Page; and to his <hi>4th</hi> and <hi>5th</hi> Arguments of the <hi>2d</hi> ſort, in my <hi>20th</hi> and <hi>21ſt</hi> Pages.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Demonſt. </seg>5</label> 
+                  <q rend="margQuotes">
+                     <hi>Pſal.</hi> 110.1. <hi>Acts</hi> 3.21. Chriſt is to remain at God's Right<g ref="char:EOLhyphen"/>hand, till his Enemies be made his Footſtool: But after the thou<g ref="char:EOLhyphen"/>ſand Years, <hi>Gog</hi> and <hi>Magog</hi> aſſault the Saints, <hi>Rev.</hi> 20.8, 9. There<g ref="char:EOLhyphen"/>fore he came not a thouſand Years before, while that Enemy was unſubdued.</q>
+               </p>
+               <pb n="31" facs="tcp:153532:22"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> This Demonſtration is much-what the ſame with the third Argument of the firſt Author; therefore my Anſwer to that, in my <hi>5th</hi> Page, might ſuffice; to which I refer you: But I'll add a few words, becauſe we have a little more in this. The firſt Author, both in his third Argument, and again in his large Sheet, tells us that it is expreſly ſaid in the Scripture, That Chriſt ſhall conti<g ref="char:EOLhyphen"/>nue, and ſit at the Right-hand of God, till all his Enemies be made his Footſtool, or deſtroyed: But he had that Policy in both theſe places, not to tell us where 'twas thus expreſſed, fave as aforeſaid: But this hath told us where, <hi>i.e. Pſal.</hi> 110.1. <hi>Acts</hi> 3.21. I ſuppoſe he means <hi>Acts</hi> 2.34, 35. Which places I have well con<g ref="char:EOLhyphen"/>ſidered, and find no ſuch thing, neither in Words nor Senſe; nor in any other place of Sacred Scripture. True, it is thus written, <hi>The Lord ſaid unto my Lord, Sit thou at my Right-hand un<g ref="char:EOLhyphen"/>til I make thine Enemies thy Footſtool:</hi> But not until I have made them ſo.</p>
+               <p>Now who is ſo weak that cannot ſee a Difference between theſe two words? It's well known the one (viz. <hi>until I make</hi>) ſpeaks of a Work to be done, and ſo reſpects the beginning of that Time when this muſt be ſet about: The other (viz. <hi>un<g ref="char:EOLhyphen"/>til I have made</hi>) ſpeaks of a Work done, and ſo reſpects the end of Time.</p>
+               <p>Therefore conſider how you have abuſed theſe Texts, and led many an unwary Reader aſide; making this the Foundation to build this your Principle upon. For you cannot but know, that to Change, Add, or Take away from a Word but ſo much as one Letter, quite alters and deſtroys the Senſe; as hath been told the Quakers in Print, (who are much guilty herein) or at leaſt their Advocate <hi>W. L.</hi> For that Inſtance in 1 <hi>Cor.</hi> 15.51. it's ſaid, <hi>We ſhall not all ſleep, but we ſhall all be changed:</hi> Leave out but the Letter (C) and then it muſt be read, We ſhall all be hanged: And the like in changing a Letter; as might be ſhewed, as you have now done in taking away [K] and putting in [D] inſtead of it; and more than this, in adding the word [Be], which you are forced to do, or ſome ſuch word of the ſame Senſe, or elſe you can make no Senſe of it (in the Reading.) And more yet, in adding the word [All], as the firſt Author hath done, and the Latter in effect. If that Printer in King <hi>James</hi>'s time was fined a thouſand Pounds, becauſe the Particle <hi>[Not]</hi>
+                  <pb n="32" facs="tcp:153532:23"/>was leſt out of the Seventh Commandment: What ſhall they be thought worthy of that both change, in reſpect of Letter, and add Words to what is written, to the total Deſtruction of the true Senſe thereof? Read and fear what's ſaid, <hi>Rev.</hi> 22.18, 19.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Object. </seg>
+                  </label> But poſſibly ſome may object, and ſay, <q rend="margQuotes">Although the word <hi>[Made]</hi> be not in the Text cited, yet 'tis in <hi>Heb.</hi> 10.12, 13.</q>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> True, it is ſo; but then pray mark; 'tis not here ſaid, He ſhall ſit at the Right-hand of the Father till his Enemies be made his Footſtool: but thus, <hi>This Man after he had offered one Sacrifice for Sins for ever, ſat down on the Right-hand of God: From henceforth, expecting till his Enemies be made his Footſtool.</hi> Which alters the caſe.</p>
+               <p>For who is there but will grant this, <hi>viz.</hi> his Expectation, (from that Day forward) that ſuch a Work ſhall be done, and yet deny that he ſhall ſit there till it be done; for as he in Heaven, ſo we on Earth, expect this, <hi>viz.</hi> that his and our Enemies ſhall be made his Footſtool. But what's this to the Caſe in hand?</p>
+               <p>
+                  <hi>Ergo,</hi> Your Concluſion (That Chriſt's Coming is after the thou<g ref="char:EOLhyphen"/>ſand Years, or that he will not come a thouſand Years before the ſubduing of <hi>Gog</hi> and <hi>Magog,</hi> Rev. 20.8, 9.) is altogether falſe.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Demonſt. </seg>6</label> 
+                  <q rend="margQuotes">Neither is <hi>Gog</hi> his laſt Enemy, but Death is ſo called, 1 <hi>Cor.</hi> 15.26. Therefore Chriſt's Coming is not till he comes to ſwallow up Death in Victory, (<hi>ver.</hi> 54.) in the Reſurrection of the Saints. See above.</q>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Anſwer. </seg>
+                  </label> This Demonſtration I grant in all the Parts or Branches of it, except your [Therefore]. Firſt, Your Antecedent, That <hi>Gog</hi> is not the laſt Enemy, but that Death is ſo called, 1 <hi>Cor.</hi> 15. <hi>2dly,</hi> Your Conſequence, or Concluſion, (though not from theſe Premiſes) Chriſt's Coming is not till he comes to ſwallow up Death in Victory, in the (<hi>ver.</hi> 54.) Reſurrection of the Saints.</p>
+               <p>But now, what's this to the Queſtion, <hi>viz.</hi> That Chriſt's Com<g ref="char:EOLhyphen"/>ing is after the thouſand Years? You bid us ſee above; and I refer you to the aboveſaid Anſwers. But I ſuppoſe here lies your Miſ<g ref="char:EOLhyphen"/>take, (as this Demonſtration implies) <hi>i. e.</hi> that you account De<g ref="char:EOLhyphen"/>ſtruction and Victory both one thing; and therefore you argue from the one, (<hi>viz.</hi> Deſtruction) to the other, (<hi>viz.</hi> Victory). A
+<pb n="33" facs="tcp:153532:23"/>ſtrange Miſtake, and as ſtrange Arguing, of a wiſe Man. Do not all Men know, that although ſometimes they may go together, yet they are two diſtinct things, and very frequently go aſunder? <hi>viz.</hi> the Victory before the time of Deſtruction; Inſtances hereof e<g ref="char:EOLhyphen"/>nough among Men might be produced if need were: And 'tis as true in this caſe. 'Tis well known our Lord himſelf got the Victo<g ref="char:EOLhyphen"/>ry over Death when he roſe from the dead, yet did not then deſtroy Death: ſo the Saints (through Chriſt) get the Victory over Death at their Reſurrection; yet Death ſhall not then, to wit, at that very inſtant, be deſtroyed. And our Apoſtle very wiſely makes the Diſtinction in that 1 <hi>Cor.</hi> 15.23, 24, 25, 26. and this ve<g ref="char:EOLhyphen"/>ry Verſe, (<hi>viz.</hi> 54.) He doth not ſay, That at the Saints, or firſt Reſurrection, ſhall be brought to paſs the Saying, <hi>O Death, or O Grave, I will be thy Deſtruction:</hi> But that Saying, <hi>Death is ſwal<g ref="char:EOLhyphen"/>lowed up in Victory.</hi> And herein you greatly contradict your ſelf, in making theſe two, one, (<hi>viz.</hi> Deſtruction and Victory) or con<g ref="char:EOLhyphen"/>temporary, namely, at the Reſurrection of the Juſt, or firſt Reſurrection: For in your <hi>9th</hi> and <hi>10th</hi> Pages, you tell us, <q rend="margQuotes">The Wicked ſhall not be raiſed till after the Saints; nay, that many things ſhall paſs, or be done, between the Reſurrection of the Juſt and Unjuſt.</q> Now if this be true, (as I grant it is) then by your own Grant, Death will not be deſtroyed at the firſt Reſurrection, ſince it ſhall hold the reſt down after that is paſt: And this is evi<g ref="char:EOLhyphen"/>dent from both <hi>Iſaiah,</hi> (from whence the Apoſtle hath theſe words) and from 1 <hi>Cor.</hi> 15. alſo.</p>
+               <p>
+                  <hi>Ergo,</hi> I conclude from this your Demonſtration, or the Conſe<g ref="char:EOLhyphen"/>quence thereof, that ſince Chriſt ſhall come Perſonally at the firſt Reſurrection, and that will be (as I have ſhewed) at the beginning of the thouſand Years; that then the thouſand Years are not be<g ref="char:EOLhyphen"/>fore, nor without, but with his Perſonal Preſence on Earth.</p>
+               <p>Thus much in anſwer to your Six Demonſtrations.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="34" facs="tcp:153532:24"/>
+            <head>A POSTSCRIPT.</head>
+            <p>READER, this Treatiſe was wholly compoſed, and deſigned for the Preſs ſome Years paſt, as may be conceived by ſome Paſſages in the Epiſtle: But for ſome Reaſons (of no neceſ<g ref="char:EOLhyphen"/>ſity herein to be inſerted) came not forth till now; and I hope may be as ſeaſonable at this time, to inform Men, and to prevent the Miſtakes that many are ready to make concerning the Kingdom of our Lord.</p>
+            <p>Further; This may indifferently ſerve for an Anſwer to ſeveral Books that have come forth ſince the Writing hereof; particularly Mr. <hi>Richard Baxter</hi>'s, intituled, <hi>The Glorious Kingdom of Chriſt.</hi>
+            </p>
+            <p>It may ſeem ſtrange that ſuch great Miſtakes are about the Glori<g ref="char:EOLhyphen"/>ous Kingdom of our Lord Jeſus Chriſt on Earth, and that by thoſe that are accounted Wiſe, <hi>&amp;c.</hi> ſith the Holy Scripture is ſo full and plain in this Caſe: But call to remembrance the words of our Lord Jeſus, <hi>Mat.</hi> 11.25, 26. <hi>Luke</hi> 10.21, 22, 23. and that may ſatisfy you; for the Promiſe of making known theſe great things, is to them that humble themſelves to do the Will of Chriſt, <hi>Joh.</hi> 7.17.</p>
+            <p>I have been ſolicited by ſeveral to write more fully what I un<g ref="char:EOLhyphen"/>derſtand concerning this Glorious Kingdom, and the wonderful Preparatives to it, <hi>i. e.</hi> thoſe exceeding great Things that ſhall be wrought in a little Time, or few Years, before the King<g ref="char:EOLhyphen"/>doms of this World become the Kingdoms of our Lord, and of his Chriſt, (all which have been my Meditation this many Years with great Diligence and Delight); but ſhall forbear till I ſee how this will be accepted, or rejected; and therefore ſtand rea<g ref="char:EOLhyphen"/>dy to make defence againſt any that ſhall ſoberly and pertinent<g ref="char:EOLhyphen"/>ly oppoſe. And hereafter (if God permit) ſhall anſwer the De<g ref="char:EOLhyphen"/>ſires of thoſe above-mentioned, for the Edification of the Churches of Chriſt.</p>
+            <p>All that I ſhall further ſay at preſent, is, The Time is ſhort, the great and terrible Day draws near, and haſteth greatly; as ap<g ref="char:EOLhyphen"/>pears
+<pb n="35" facs="tcp:153532:24"/>by the Signs given by our Lord, and in part come to paſs, <hi>viz.</hi> The great Wars and Rumours of Wars in the World, and the great Earthquakes in divers Places, <hi>&amp;c.</hi> which are by our Lord called, <hi>The beginning of Sorrows,</hi> and muſt firſt come to paſs, <hi>Mat.</hi> 24.6, 7, 8. <hi>Mark</hi> 13.7, 8. <hi>Luke</hi> 21.9, 10, 11. May we not now con<g ref="char:EOLhyphen"/>clude, that <hi>this Generation ſhall not paſs before all theſe things ſhall be fulfilled?</hi>
+               <note place="margin">Mat. 24.3<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Mark 13.2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Luke 21.3<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> 
+               <hi>What manner of Perſons ought we then to be in all holy Con<g ref="char:EOLhyphen"/>verſation and Godlineſs? looking for, and haſting unto the Coming of the Day of God. Be diligent that ye may be found of him in Peace, without Spot, and Blameleſs,</hi> 2 Pet. 3.11, 12, 14. And remember the Words of our Lord, <hi>When theſe things be ſeen to come to paſs, then look up and lift up your Heads, for the Day of your Redemp<g ref="char:EOLhyphen"/>tion draweth nigh,</hi> Luke 21.28. <hi>And take heed to your ſelves leſt at any time your Hearts be overcharged with Surfeiting, and Drunken<g ref="char:EOLhyphen"/>neſs, and Cares of this Life, and ſo that Day come upon you una<g ref="char:EOLhyphen"/>wares; for as a Snare ſhall it come on all them that dwell upon the face of the whole Earth,</hi> Luke 21.34, 35. <hi>He which teſtifies theſe things, ſaith, Surely I come quickly.</hi> Amen. <hi>Even ſo come, Lord Je<g ref="char:EOLhyphen"/>ſus. The Grace of our Lord Jeſus Chriſt be with you all.</hi> Amen. Rev. 22.20, 21.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>IN the Epiſtle.] Page 7. line 4. for <hi>alone,</hi> read <hi>all one.</hi> P. 9. l. 9. f. <hi>latter,</hi> r. <hi>Letter.</hi>
+            </p>
+            <p>In the Book.] Page 2. line 26. for <hi>Throne,</hi> read <hi>Thrones.</hi> P. 13. l. 13. f. <hi>the,</hi> r. <hi>your.</hi> P. 14. l. 37. f. <hi>fulfilled,</hi> r. <hi>finiſhed.</hi> P. 15, and part of the 16, till the third Argument, raze out the double Comma's in the Margent. P. 18. l. 18. f. <hi>ſeem,</hi> r. <hi>ſerve.</hi> P. 19. l. 31. f. <hi>ſubjecting,</hi> r. <hi>converting.</hi> P. 29. l. 36. f. <hi>former,</hi> r. <hi>form and.</hi> P. 31. l. 29. f. <hi>For,</hi> r. <hi>From.</hi> l. 36. f. <hi>the ſame ſenſe,</hi> r. <hi>the ſame Tenſe.</hi> Idem, f. <hi>the,</hi> r. <hi>your.</hi> P. 35. f. <hi>be ſeen,</hi> r. <hi>begin.</hi>
+            </p>
+            <pb facs="tcp:153532:25" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
